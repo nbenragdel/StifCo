@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StifCo</string>
+     <string name="resultat">résultat</string>
+    <string name="en_attente">en Attente</string>
+    <string name="proposer">Proposer un déplacement</string>
+     <string name="recherche">chercher un déplacement</string>
+    <string name="offre">Envoyer l\'offre</string>
+    <string name="Chercher">voire les offres</string>
+    <string name="rechercher">Rechercher un déplacement</string>
+    <string name="logo">Région Île de France</string>
+    <string name="imei"></string>
+    <string name="suppression_compte">Supprimer le compte</string>
+    
+    <string name="ad_compte">Validation du téléphone</string>
+    <string name="explications">Pour avoir un compte et lancer l\'application, il faut aller au préalable s\'inscrire sur le site stifco.chamedu.fr </string>
+    <string name="acceptation">En appuyant sur OK vous autorisez l\'application à vérifier votre email sur notre base</string>
+    <string name="email">Entrez votre adresse email :</string>
+    <string name="adresse">Email :</string>
+       
+    <string name="ok">OK</string>
+    <string name="cancel">Non, merci</string>
+    
+    <string name="ladate">Date</string>
+    <string name="ville">Ville</string>
+    <string name="lieu">Lieu</string>
+    <string name="heure">Heure</string>
+    <string name="places">Nombre\nde places</string>
+    <string name="gare">Gare de</string>
+    
+    <string name="mois">Mois</string> 
+    <string name="destination">La destination</string>
+    
+    <string name="mairie">Mairie</string>
+    <string name="poste">Poste</string>
+    <string name="eglise">Eglise</string>
+    
+    <string name="changerdate">Changer la date</string>
+    <string name="changerheure">Changer l\'heure</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    
+ 
+</resources>

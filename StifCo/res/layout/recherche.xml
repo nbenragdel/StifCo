@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="@string/proposer"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvGares"
+        android:layout_marginTop="14dp"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/mois"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="@string/mois"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btChercher"
+        style="@style/btrecherche"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/actvGare"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/Chercher"
+        android:textColorHint="@color/blue"
+        android:textColorLink="@color/grey" />
+
+    <TextView
+        android:id="@+id/tvGares"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/actvGare"
+        android:layout_alignParentLeft="true"
+        android:text="@string/gare"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="20sp" />
+
+    <AutoCompleteTextView
+        android:id="@+id/actvGare"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mois"
+        android:layout_marginTop="61dp"
+        android:layout_toRightOf="@+id/tvGares"
+        android:ems="10" >
+
+        <requestFocus />
+    </AutoCompleteTextView>
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/actvGare"
+        android:layout_alignLeft="@+id/actvGare"
+        android:layout_alignParentTop="true" />
+
+       <ListView
+           android:id="@+id/listView1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_alignParentLeft="true"
+           android:layout_alignParentRight="true"
+           android:layout_below="@+id/btChercher"
+           android:background="@color/white" >
+
+    </ListView>
+    
+</RelativeLayout>

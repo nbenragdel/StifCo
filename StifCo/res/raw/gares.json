@@ -1,0 +1,10533 @@
+{
+	"gares": [
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/1",
+		"fields": 
+		{
+			"latitude": "48.95535309",
+			"wgs84": 
+			[
+				48.95535309,
+				2.09326548
+			],
+
+			"nom_de_la_gare": "Ach\u00e8res-Grand-Cormier",
+			"longitude": "2.09326548"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.09326548,
+				48.95535309
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/6",
+		"fields": 
+		{
+			"latitude": "48.58613792",
+			"wgs84": 
+			[
+				48.58613792,
+				2.24048889
+			],
+
+			"nom_de_la_gare": "Arpajon (Essonne)",
+			"longitude": "2.24048889"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.24048889,
+				48.58613792
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/13",
+		"fields": 
+		{
+			"latitude": "48.87140018",
+			"wgs84": 
+			[
+				48.87140018,
+				2.2756804
+			],
+
+			"nom_de_la_gare": "Avenue-Foch",
+			"longitude": "2.2756804"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2756804,
+				48.87140018
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/18",
+		"fields": 
+		{
+			"latitude": "48.90582701",
+			"wgs84": 
+			[
+				48.90582701,
+				2.26831018
+			],
+
+			"nom_de_la_gare": "B\u00e9con-les-Bruy\u00e8res",
+			"longitude": "2.26831018"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26831018,
+				48.90582701
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/20",
+		"fields": 
+		{
+			"latitude": "49.09832644",
+			"wgs84": 
+			[
+				49.09832644,
+				2.36124139
+			],
+
+			"nom_de_la_gare": "Belloy-St-Martin",
+			"longitude": "2.36124139"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36124139,
+				49.09832644
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/25",
+		"fields": 
+		{
+			"latitude": "48.34160737",
+			"wgs84": 
+			[
+				48.34160737,
+				2.37878546
+			],
+
+			"nom_de_la_gare": "Boigneville",
+			"longitude": "2.37878546"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37878546,
+				48.34160737
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/32",
+		"fields": 
+		{
+			"latitude": "49.04498984",
+			"wgs84": 
+			[
+				49.04498984,
+				2.32322951
+			],
+
+			"nom_de_la_gare": "Bouffemont-Moisselles",
+			"longitude": "2.32322951"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32322951,
+				49.04498984
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/37",
+		"fields": 
+		{
+			"latitude": "48.33267292",
+			"wgs84": 
+			[
+				48.33267292,
+				2.69345955
+			],
+
+			"nom_de_la_gare": "Bourron-Marlotte-Grez",
+			"longitude": "2.69345955"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.69345955,
+				48.33267292
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/44",
+		"fields": 
+		{
+			"latitude": "48.69947292",
+			"wgs84": 
+			[
+				48.69947292,
+				2.50643762
+			],
+
+			"nom_de_la_gare": "Brunoy",
+			"longitude": "2.50643762"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.50643762,
+				48.69947292
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/49",
+		"fields": 
+		{
+			"latitude": "49.04985392",
+			"wgs84": 
+			[
+				49.04985392,
+				2.03347574
+			],
+
+			"nom_de_la_gare": "Cergy-St-Christophe",
+			"longitude": "2.03347574"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.03347574,
+				49.04985392
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/51",
+		"fields": 
+		{
+			"latitude": "48.5658703",
+			"wgs84": 
+			[
+				48.5658703,
+				2.5941721
+			],
+
+			"nom_de_la_gare": "Cesson",
+			"longitude": "2.5941721"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.5941721,
+				48.5658703
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/56",
+		"fields": 
+		{
+			"latitude": "48.40633817",
+			"wgs84": 
+			[
+				48.40633817,
+				2.7997657
+			],
+
+			"nom_de_la_gare": "Champagne-sur-Seine",
+			"longitude": "2.7997657"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.7997657,
+				48.40633817
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/63",
+		"fields": 
+		{
+			"latitude": "48.48689513",
+			"wgs84": 
+			[
+				48.48689513,
+				2.69597219
+			],
+
+			"nom_de_la_gare": "Chartrettes",
+			"longitude": "2.69597219"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.69597219,
+				48.48689513
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/68",
+		"fields": 
+		{
+			"latitude": "48.74804648",
+			"wgs84": 
+			[
+				48.74804648,
+				2.31326033
+			],
+
+			"nom_de_la_gare": "Chemin-d'Antony",
+			"longitude": "2.31326033"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31326033,
+				48.74804648
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/70",
+		"fields": 
+		{
+			"latitude": "48.69996695",
+			"wgs84": 
+			[
+				48.69996695,
+				2.30951848
+			],
+
+			"nom_de_la_gare": "Chilly-Mazarin",
+			"longitude": "2.30951848"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30951848,
+				48.69996695
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/75",
+		"fields": 
+		{
+			"latitude": "48.92389429",
+			"wgs84": 
+			[
+				48.92389429,
+				2.25916045
+			],
+
+			"nom_de_la_gare": "Colombes",
+			"longitude": "2.25916045"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25916045,
+				48.92389429
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/82",
+		"fields": 
+		{
+			"latitude": "48.56622159",
+			"wgs84": 
+			[
+				48.56622159,
+				2.49226968
+			],
+
+			"nom_de_la_gare": "Coudray-Montceaux",
+			"longitude": "2.49226968"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.49226968,
+				48.56622159
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/87",
+		"fields": 
+		{
+			"latitude": "49.09155431",
+			"wgs84": 
+			[
+				49.09155431,
+				3.06289715
+			],
+
+			"nom_de_la_gare": "Crouy-sur-Ourcq",
+			"longitude": "3.06289715"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.06289715,
+				49.09155431
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/94",
+		"fields": 
+		{
+			"latitude": "49.02276197",
+			"wgs84": 
+			[
+				49.02276197,
+				2.36290365
+			],
+
+			"nom_de_la_gare": "\u00c9couen-\u00c9zanville",
+			"longitude": "2.36290365"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36290365,
+				49.02276197
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/99",
+		"fields": 
+		{
+			"latitude": "48.95407867",
+			"wgs84": 
+			[
+				48.95407867,
+				2.30236571
+			],
+
+			"nom_de_la_gare": "\u00c9pinay-sur-Seine",
+			"longitude": "2.30236571"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30236571,
+				48.95407867
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/100",
+		"fields": 
+		{
+			"latitude": "48.95848776",
+			"wgs84": 
+			[
+				48.95848776,
+				2.32797478
+			],
+
+			"nom_de_la_gare": "\u00c9pinay-Villetaneuse",
+			"longitude": "2.32797478"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32797478,
+				48.95848776
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/105",
+		"fields": 
+		{
+			"latitude": "48.99105478",
+			"wgs84": 
+			[
+				48.99105478,
+				2.26313669
+			],
+
+			"nom_de_la_gare": "Ermont-Halte",
+			"longitude": "2.26313669"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26313669,
+				48.99105478
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/112",
+		"fields": 
+		{
+			"latitude": "48.80854522",
+			"wgs84": 
+			[
+				48.80854522,
+				2.99340993
+			],
+
+			"nom_de_la_gare": "Faremoutiers-Pommeuse",
+			"longitude": "2.99340993"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.99340993,
+				48.80854522
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/117",
+		"fields": 
+		{
+			"latitude": "49.04578602",
+			"wgs84": 
+			[
+				49.04578602,
+				2.19710977
+			],
+
+			"nom_de_la_gare": "Fr\u00e9pillon",
+			"longitude": "2.19710977"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.19710977,
+				49.04578602
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/124",
+		"fields": 
+		{
+			"latitude": "48.93338647",
+			"wgs84": 
+			[
+				48.93338647,
+				2.30748612
+			],
+
+			"nom_de_la_gare": "Gennevilliers",
+			"longitude": "2.30748612"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30748612,
+				48.93338647
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/129",
+		"fields": 
+		{
+			"latitude": "48.65106599",
+			"wgs84": 
+			[
+				48.65106599,
+				2.39390752
+			],
+
+			"nom_de_la_gare": "Grigny-Centre",
+			"longitude": "2.39390752"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.39390752,
+				48.65106599
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/131",
+		"fields": 
+		{
+			"latitude": "48.98474272",
+			"wgs84": 
+			[
+				48.98474272,
+				2.35434176
+			],
+
+			"nom_de_la_gare": "Groslay",
+			"longitude": "2.35434176"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35434176,
+				48.98474272
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/136",
+		"fields": 
+		{
+			"latitude": "48.99064651",
+			"wgs84": 
+			[
+				48.99064651,
+				2.16134104
+			],
+
+			"nom_de_la_gare": "Herblay",
+			"longitude": "2.16134104"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.16134104,
+				48.99064651
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/143",
+		"fields": 
+		{
+			"latitude": "48.97928392",
+			"wgs84": 
+			[
+				48.97928392,
+				1.78592404
+			],
+
+			"nom_de_la_gare": "Issou-Porcheville",
+			"longitude": "1.78592404"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.78592404,
+				48.97928392
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/148",
+		"fields": 
+		{
+			"latitude": "48.76453571",
+			"wgs84": 
+			[
+				48.76453571,
+				2.16816926
+			],
+
+			"nom_de_la_gare": "Jouy-en-Josas",
+			"longitude": "2.16816926"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.16816926,
+				48.76453571
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/150",
+		"fields": 
+		{
+			"latitude": "48.6891957",
+			"wgs84": 
+			[
+				48.6891957,
+				2.38343039
+			],
+
+			"nom_de_la_gare": "Juvisy",
+			"longitude": "2.38343039"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.38343039,
+				48.6891957
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/155",
+		"fields": 
+		{
+			"latitude": "48.4851425",
+			"wgs84": 
+			[
+				48.4851425,
+				2.35201568
+			],
+
+			"nom_de_la_gare": "La Fert\u00e9-Alais",
+			"longitude": "2.35201568"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35201568,
+				48.4851425
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/162",
+		"fields": 
+		{
+			"latitude": "48.755387",
+			"wgs84": 
+			[
+				48.755387,
+				1.94416333
+			],
+
+			"nom_de_la_gare": "La Verri\u00e8re",
+			"longitude": "1.94416333"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.94416333,
+				48.755387
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/167",
+		"fields": 
+		{
+			"latitude": "48.62325379",
+			"wgs84": 
+			[
+				48.62325379,
+				2.45087811
+			],
+
+			"nom_de_la_gare": "Le Bras-de-fer",
+			"longitude": "2.45087811"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.45087811,
+				48.62325379
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/174",
+		"fields": 
+		{
+			"latitude": "48.85698545",
+			"wgs84": 
+			[
+				48.85698545,
+				2.21652074
+			],
+
+			"nom_de_la_gare": "Le Val-d'Or",
+			"longitude": "2.21652074"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.21652074,
+				48.85698545
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/179",
+		"fields": 
+		{
+			"latitude": "48.99272184",
+			"wgs84": 
+			[
+				48.99272184,
+				1.95481389
+			],
+
+			"nom_de_la_gare": "Les Clairi\u00e8res-de-Verneuil",
+			"longitude": "1.95481389"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.95481389,
+				48.99272184
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/181",
+		"fields": 
+		{
+			"latitude": "48.91886013",
+			"wgs84": 
+			[
+				48.91886013,
+				2.31476594
+			],
+
+			"nom_de_la_gare": "Les Gr\u00e9sillons",
+			"longitude": "2.31476594"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31476594,
+				48.91886013
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/186",
+		"fields": 
+		{
+			"latitude": "48.82351975",
+			"wgs84": 
+			[
+				48.82351975,
+				2.57931596
+			],
+
+			"nom_de_la_gare": "Les Yvris-Noisy-le-Grand",
+			"longitude": "2.57931596"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.57931596,
+				48.82351975
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/193",
+		"fields": 
+		{
+			"latitude": "48.70192601",
+			"wgs84": 
+			[
+				48.70192601,
+				2.29742938
+			],
+
+			"nom_de_la_gare": "Longjumeau",
+			"longitude": "2.29742938"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29742938,
+				48.70192601
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/198",
+		"fields": 
+		{
+			"latitude": "48.88033724",
+			"wgs84": 
+			[
+				48.88033724,
+				2.3583723
+			],
+
+			"nom_de_la_gare": "Magenta",
+			"longitude": "2.3583723"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.3583723,
+				48.88033724
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/201",
+		"fields": 
+		{
+			"latitude": "48.39301551",
+			"wgs84": 
+			[
+				48.39301551,
+				2.39296525
+			],
+
+			"nom_de_la_gare": "Maisse",
+			"longitude": "2.39296525"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.39296525,
+				48.39301551
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/206",
+		"fields": 
+		{
+			"latitude": "49.13538199",
+			"wgs84": 
+			[
+				49.13538199,
+				3.07527059
+			],
+
+			"nom_de_la_gare": "Mareuil-sur-Ourcq",
+			"longitude": "3.07527059"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.07527059,
+				49.13538199
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/213",
+		"fields": 
+		{
+			"latitude": "48.73528646",
+			"wgs84": 
+			[
+				48.73528646,
+				2.27454295
+			],
+
+			"nom_de_la_gare": "Massy-Verri\u00e8res",
+			"longitude": "2.27454295"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27454295,
+				48.73528646
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/218",
+		"fields": 
+		{
+			"latitude": "48.96664359",
+			"wgs84": 
+			[
+				48.96664359,
+				1.60150638
+			],
+
+			"nom_de_la_gare": "M\u00e9nerville",
+			"longitude": "1.60150638"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.60150638,
+				48.96664359
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/220",
+		"fields": 
+		{
+			"latitude": "49.0770105",
+			"wgs84": 
+			[
+				49.0770105,
+				2.20481451
+			],
+
+			"nom_de_la_gare": "M\u00e9riel",
+			"longitude": "2.20481451"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.20481451,
+				49.0770105
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/225",
+		"fields": 
+		{
+			"latitude": "48.97586806",
+			"wgs84": 
+			[
+				48.97586806,
+				2.64234393
+			],
+
+			"nom_de_la_gare": "Mitry-Claye",
+			"longitude": "2.64234393"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.64234393,
+				48.97586806
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/232",
+		"fields": 
+		{
+			"latitude": "48.33650901",
+			"wgs84": 
+			[
+				48.33650901,
+				2.73810251
+			],
+
+			"nom_de_la_gare": "Montigny-sur-Loing",
+			"longitude": "2.73810251"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.73810251,
+				48.33650901
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/237",
+		"fields": 
+		{
+			"latitude": "48.61392316",
+			"wgs84": 
+			[
+				48.61392316,
+				2.88856932
+			],
+
+			"nom_de_la_gare": "Mormant",
+			"longitude": "2.88856932"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.88856932,
+				48.61392316
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/244",
+		"fields": 
+		{
+			"latitude": "48.97389793",
+			"wgs84": 
+			[
+				48.97389793,
+				3.22019374
+			],
+
+			"nom_de_la_gare": "Nanteuil-Sa\u00e2cy",
+			"longitude": "3.22019374"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.22019374,
+				48.97389793
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/249",
+		"fields": 
+		{
+			"latitude": "48.83843736",
+			"wgs84": 
+			[
+				48.83843736,
+				2.4943627
+			],
+
+			"nom_de_la_gare": "Nogent-Le Perreux",
+			"longitude": "2.4943627"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.4943627,
+				48.83843736
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/251",
+		"fields": 
+		{
+			"latitude": "48.8414871",
+			"wgs84": 
+			[
+				48.8414871,
+				2.06163268
+			],
+
+			"nom_de_la_gare": "Noisy-le-Roi",
+			"longitude": "2.06163268"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.06163268,
+				48.8414871
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/256",
+		"fields": 
+		{
+			"latitude": "48.74283987",
+			"wgs84": 
+			[
+				48.74283987,
+				2.40186214
+			],
+
+			"nom_de_la_gare": "Orly-Ville",
+			"longitude": "2.40186214"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.40186214,
+				48.74283987
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/263",
+		"fields": 
+		{
+			"latitude": "48.84019462",
+			"wgs84": 
+			[
+				48.84019462,
+				2.38466624
+			],
+
+			"nom_de_la_gare": "Paris-Bercy",
+			"longitude": "2.38466624"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.38466624,
+				48.84019462
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/268",
+		"fields": 
+		{
+			"latitude": "48.82668197",
+			"wgs84": 
+			[
+				48.82668197,
+				2.30277708
+			],
+
+			"nom_de_la_gare": "Paris-Montparnasse",
+			"longitude": "2.30277708"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30277708,
+				48.82668197
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/270",
+		"fields": 
+		{
+			"latitude": "48.8816391",
+			"wgs84": 
+			[
+				48.8816391,
+				2.35614126
+			],
+
+			"nom_de_la_gare": "Paris-Nord-Souterraine",
+			"longitude": "2.35614126"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35614126,
+				48.8816391
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/275",
+		"fields": 
+		{
+			"latitude": "48.76833152",
+			"wgs84": 
+			[
+				48.76833152,
+				2.14764983
+			],
+
+			"nom_de_la_gare": "Petit-Jouy-Les Loges",
+			"longitude": "2.14764983"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.14764983,
+				48.76833152
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/282",
+		"fields": 
+		{
+			"latitude": "48.88758598",
+			"wgs84": 
+			[
+				48.88758598,
+				2.31438919
+			],
+
+			"nom_de_la_gare": "Pont-Cardinet",
+			"longitude": "2.31438919"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31438919,
+				48.88758598
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/287",
+		"fields": 
+		{
+			"latitude": "49.06121353",
+			"wgs84": 
+			[
+				49.06121353,
+				2.13154418
+			],
+
+			"nom_de_la_gare": "Pont-Petit",
+			"longitude": "2.13154418"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.13154418,
+				49.06121353
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/294",
+		"fields": 
+		{
+			"latitude": "48.6432424",
+			"wgs84": 
+			[
+				48.6432424,
+				1.83116554
+			],
+
+			"nom_de_la_gare": "Rambouillet",
+			"longitude": "1.83116554"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.83116554,
+				48.6432424
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/299",
+		"fields": 
+		{
+			"latitude": "48.79548971",
+			"wgs84": 
+			[
+				48.79548971,
+				2.65094823
+			],
+
+			"nom_de_la_gare": "Roissy-en-Brie",
+			"longitude": "2.65094823"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.65094823,
+				48.79548971
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/302",
+		"fields": 
+		{
+			"latitude": "48.9977625",
+			"wgs84": 
+			[
+				48.9977625,
+				1.62940923
+			],
+
+			"nom_de_la_gare": "Rosny-sur-Seine",
+			"longitude": "1.62940923"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.62940923,
+				48.9977625
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/307",
+		"fields": 
+		{
+			"latitude": "48.93743377",
+			"wgs84": 
+			[
+				48.93743377,
+				2.1574163
+			],
+
+			"nom_de_la_gare": "Sartrouville",
+			"longitude": "2.1574163"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.1574163,
+				48.93743377
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/314",
+		"fields": 
+		{
+			"latitude": "48.82128476",
+			"wgs84": 
+			[
+				48.82128476,
+				2.2154309
+			],
+
+			"nom_de_la_gare": "S\u00e8vres-Rive-Gauche",
+			"longitude": "2.2154309"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2154309,
+				48.82128476
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/319",
+		"fields": 
+		{
+			"latitude": "48.84523097",
+			"wgs84": 
+			[
+				48.84523097,
+				2.216942
+			],
+
+			"nom_de_la_gare": "St-Cloud",
+			"longitude": "2.216942"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.216942,
+				48.84523097
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/321",
+		"fields": 
+		{
+			"latitude": "48.93547446",
+			"wgs84": 
+			[
+				48.93547446,
+				2.34543623
+			],
+
+			"nom_de_la_gare": "St-Denis",
+			"longitude": "2.34543623"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.34543623,
+				48.93547446
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/326",
+		"fields": 
+		{
+			"latitude": "48.90360098",
+			"wgs84": 
+			[
+				48.90360098,
+				2.07310259
+			],
+
+			"nom_de_la_gare": "St-Germain-Grande-Ceinture",
+			"longitude": "2.07310259"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07310259,
+				48.90360098
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/333",
+		"fields": 
+		{
+			"latitude": "48.86663451",
+			"wgs84": 
+			[
+				48.86663451,
+				2.05073355
+			],
+
+			"nom_de_la_gare": "St-Nom-la-Bret\u00eache-For\u00eat-de-Marly",
+			"longitude": "2.05073355"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.05073355,
+				48.86663451
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/338",
+		"fields": 
+		{
+			"latitude": "48.78712051",
+			"wgs84": 
+			[
+				48.78712051,
+				2.04386813
+			],
+
+			"nom_de_la_gare": "St-Quentin-en-Yvelines",
+			"longitude": "2.04386813"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.04386813,
+				48.78712051
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/340",
+		"fields": 
+		{
+			"latitude": "48.87150431",
+			"wgs84": 
+			[
+				48.87150431,
+				2.22102522
+			],
+
+			"nom_de_la_gare": "Suresnes-Mont-Val\u00e9rien",
+			"longitude": "2.22102522"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.22102522,
+				48.87150431
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/345",
+		"fields": 
+		{
+			"latitude": "48.39422681",
+			"wgs84": 
+			[
+				48.39422681,
+				2.76453258
+			],
+
+			"nom_de_la_gare": "Thomery",
+			"longitude": "2.76453258"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.76453258,
+				48.39422681
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/352",
+		"fields": 
+		{
+			"latitude": "48.87557223",
+			"wgs84": 
+			[
+				48.87557223,
+				2.64229833
+			],
+
+			"nom_de_la_gare": "Vaires-Torcy",
+			"longitude": "2.64229833"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.64229833,
+				48.87557223
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/357",
+		"fields": 
+		{
+			"latitude": "49.02161417",
+			"wgs84": 
+			[
+				49.02161417,
+				2.23016875
+			],
+
+			"nom_de_la_gare": "Vaucelles",
+			"longitude": "2.23016875"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23016875,
+				49.02161417
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/364",
+		"fields": 
+		{
+			"latitude": "48.80959776",
+			"wgs84": 
+			[
+				48.80959776,
+				2.13570378
+			],
+
+			"nom_de_la_gare": "Versailles-Rive-Droite",
+			"longitude": "2.13570378"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.13570378,
+				48.80959776
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/369",
+		"fields": 
+		{
+			"latitude": "48.592814",
+			"wgs84": 
+			[
+				48.592814,
+				2.46161115
+			],
+
+			"nom_de_la_gare": "Villab\u00e9",
+			"longitude": "2.46161115"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.46161115,
+				48.592814
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/371",
+		"fields": 
+		{
+			"latitude": "48.7395814",
+			"wgs84": 
+			[
+				48.7395814,
+				2.42640591
+			],
+
+			"nom_de_la_gare": "Villeneuve-le-Roi",
+			"longitude": "2.42640591"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.42640591,
+				48.7395814
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/376",
+		"fields": 
+		{
+			"latitude": "48.95276182",
+			"wgs84": 
+			[
+				48.95276182,
+				2.60127348
+			],
+
+			"nom_de_la_gare": "Villeparisis",
+			"longitude": "2.60127348"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.60127348,
+				48.95276182
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/383",
+		"fields": 
+		{
+			"latitude": "48.80548643",
+			"wgs84": 
+			[
+				48.80548643,
+				2.16847672
+			],
+
+			"nom_de_la_gare": "Viroflay-Rive-Droite",
+			"longitude": "2.16847672"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.16847672,
+				48.80548643
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/388",
+		"fields": 
+		{
+			"latitude": "48.42854272",
+			"wgs84": 
+			[
+				48.42854272,
+				2.75254431
+			],
+
+			"nom_de_la_gare": "Vulaines-sur-Seine-Samoreau",
+			"longitude": "2.75254431"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.75254431,
+				48.42854272
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/199",
+		"fields": 
+		{
+			"latitude": "48.80202072",
+			"wgs84": 
+			[
+				48.80202072,
+				2.42642392
+			],
+
+			"nom_de_la_gare": "Maisons-Alfort-Alfortville",
+			"longitude": "2.42642392"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.42642392,
+				48.80202072
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/202",
+		"fields": 
+		{
+			"latitude": "48.98954125",
+			"wgs84": 
+			[
+				48.98954125,
+				1.70334294
+			],
+
+			"nom_de_la_gare": "Mantes-la-Jolie",
+			"longitude": "1.70334294"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.70334294,
+				48.98954125
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/207",
+		"fields": 
+		{
+			"latitude": "48.73427015",
+			"wgs84": 
+			[
+				48.73427015,
+				2.86750376
+			],
+
+			"nom_de_la_gare": "Marles-en-Brie",
+			"longitude": "2.86750376"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.86750376,
+				48.73427015
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/214",
+		"fields": 
+		{
+			"latitude": "48.90905876",
+			"wgs84": 
+			[
+				48.90905876,
+				1.85770541
+			],
+
+			"nom_de_la_gare": "Maule",
+			"longitude": "1.85770541"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.85770541,
+				48.90905876
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/219",
+		"fields": 
+		{
+			"latitude": "48.57089226",
+			"wgs84": 
+			[
+				48.57089226,
+				2.43275433
+			],
+
+			"nom_de_la_gare": "Mennecy",
+			"longitude": "2.43275433"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.43275433,
+				48.57089226
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/221",
+		"fields": 
+		{
+			"latitude": "49.05710798",
+			"wgs84": 
+			[
+				49.05710798,
+				2.19058459
+			],
+
+			"nom_de_la_gare": "M\u00e9ry",
+			"longitude": "2.19058459"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.19058459,
+				49.05710798
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/226",
+		"fields": 
+		{
+			"latitude": "48.34878288",
+			"wgs84": 
+			[
+				48.34878288,
+				2.03271182
+			],
+
+			"nom_de_la_gare": "Monnerville",
+			"longitude": "2.03271182"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.03271182,
+				48.34878288
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/233",
+		"fields": 
+		{
+			"latitude": "48.8062427",
+			"wgs84": 
+			[
+				48.8062427,
+				2.15220495
+			],
+
+			"nom_de_la_gare": "Montreuil",
+			"longitude": "2.15220495"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.15220495,
+				48.8062427
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/238",
+		"fields": 
+		{
+			"latitude": "48.78912063",
+			"wgs84": 
+			[
+				48.78912063,
+				2.90772069
+			],
+
+			"nom_de_la_gare": "Mortcerf",
+			"longitude": "2.90772069"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.90772069,
+				48.78912063
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/240",
+		"fields": 
+		{
+			"latitude": "48.81328114",
+			"wgs84": 
+			[
+				48.81328114,
+				3.04471063
+			],
+
+			"nom_de_la_gare": "Mouroux",
+			"longitude": "3.04471063"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.04471063,
+				48.81328114
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/245",
+		"fields": 
+		{
+			"latitude": "48.26809501",
+			"wgs84": 
+			[
+				48.26809501,
+				2.6856082
+			],
+
+			"nom_de_la_gare": "Nemours-St-Pierre",
+			"longitude": "2.6856082"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.6856082,
+				48.26809501
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/252",
+		"fields": 
+		{
+			"latitude": "48.89678639",
+			"wgs84": 
+			[
+				48.89678639,
+				2.46072011
+			],
+
+			"nom_de_la_gare": "Noisy-le-Sec",
+			"longitude": "2.46072011"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.46072011,
+				48.89678639
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/257",
+		"fields": 
+		{
+			"latitude": "49.06262516",
+			"wgs84": 
+			[
+				49.06262516,
+				2.05916471
+			],
+
+			"nom_de_la_gare": "Osny",
+			"longitude": "2.05916471"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.05916471,
+				49.06262516
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/264",
+		"fields": 
+		{
+			"latitude": "48.87760162",
+			"wgs84": 
+			[
+				48.87760162,
+				2.35913991
+			],
+
+			"nom_de_la_gare": "Paris-Est",
+			"longitude": "2.35913991"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35913991,
+				48.87760162
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/269",
+		"fields": 
+		{
+			"latitude": "48.8816391",
+			"wgs84": 
+			[
+				48.8816391,
+				2.354829
+			],
+
+			"nom_de_la_gare": "Paris-Nord",
+			"longitude": "2.354829"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.354829,
+				48.8816391
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/271",
+		"fields": 
+		{
+			"latitude": "48.87644995",
+			"wgs84": 
+			[
+				48.87644995,
+				2.32400085
+			],
+
+			"nom_de_la_gare": "Paris-St-Lazare",
+			"longitude": "2.32400085"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32400085,
+				48.87644995
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/276",
+		"fields": 
+		{
+			"latitude": "48.67738233",
+			"wgs84": 
+			[
+				48.67738233,
+				2.33084931
+			],
+
+			"nom_de_la_gare": "Petit-Vaux",
+			"longitude": "2.33084931"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.33084931,
+				48.67738233
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/283",
+		"fields": 
+		{
+			"latitude": "48.862813",
+			"wgs84": 
+			[
+				48.862813,
+				2.30306473
+			],
+
+			"nom_de_la_gare": "Pont-de-l'Alma",
+			"longitude": "2.30306473"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30306473,
+				48.862813
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/288",
+		"fields": 
+		{
+			"latitude": "48.79650684",
+			"wgs84": 
+			[
+				48.79650684,
+				2.14997484
+			],
+
+			"nom_de_la_gare": "Porchefontaine",
+			"longitude": "2.14997484"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.14997484,
+				48.79650684
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/290",
+		"fields": 
+		{
+			"latitude": "49.06098906",
+			"wgs84": 
+			[
+				49.06098906,
+				1.52415067
+			],
+
+			"nom_de_la_gare": "Port-Villez",
+			"longitude": "1.52415067"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.52415067,
+				49.06098906
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/295",
+		"fields": 
+		{
+			"latitude": "48.6593977",
+			"wgs84": 
+			[
+				48.6593977,
+				2.41430139
+			],
+
+			"nom_de_la_gare": "Ris-Orangis",
+			"longitude": "2.41430139"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.41430139,
+				48.6593977
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/303",
+		"fields": 
+		{
+			"latitude": "48.74055738",
+			"wgs84": 
+			[
+				48.74055738,
+				2.35241315
+			],
+
+			"nom_de_la_gare": "Rungis-la-Fraternelle",
+			"longitude": "2.35241315"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35241315,
+				48.74055738
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/308",
+		"fields": 
+		{
+			"latitude": "48.59526488",
+			"wgs84": 
+			[
+				48.59526488,
+				2.58406882
+			],
+
+			"nom_de_la_gare": "Savigny-le-Temple-Nandy",
+			"longitude": "2.58406882"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.58406882,
+				48.59526488
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/310",
+		"fields": 
+		{
+			"latitude": "48.53550156",
+			"wgs84": 
+			[
+				48.53550156,
+				2.06882339
+			],
+
+			"nom_de_la_gare": "Sermaise",
+			"longitude": "2.06882339"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.06882339,
+				48.53550156
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/315",
+		"fields": 
+		{
+			"latitude": "48.82738031",
+			"wgs84": 
+			[
+				48.82738031,
+				2.20095359
+			],
+
+			"nom_de_la_gare": "S\u00e8vres-Ville-d'Avray",
+			"longitude": "2.20095359"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.20095359,
+				48.82738031
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/322",
+		"fields": 
+		{
+			"latitude": "48.52967572",
+			"wgs84": 
+			[
+				48.52967572,
+				3.25581228
+			],
+
+			"nom_de_la_gare": "Ste-Colombe-Septveilles",
+			"longitude": "3.25581228"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.25581228,
+				48.52967572
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/327",
+		"fields": 
+		{
+			"latitude": "48.96380691",
+			"wgs84": 
+			[
+				48.96380691,
+				2.28537537
+			],
+
+			"nom_de_la_gare": "St-Gratien",
+			"longitude": "2.28537537"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.28537537,
+				48.96380691
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/334",
+		"fields": 
+		{
+			"latitude": "48.9043213",
+			"wgs84": 
+			[
+				48.9043213,
+				2.32018026
+			],
+
+			"nom_de_la_gare": "St-Ouen",
+			"longitude": "2.32018026"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32018026,
+				48.9043213
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/339",
+		"fields": 
+		{
+			"latitude": "48.7992539",
+			"wgs84": 
+			[
+				48.7992539,
+				3.20854648
+			],
+
+			"nom_de_la_gare": "St-Sim\u00e9on",
+			"longitude": "3.20854648"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.20854648,
+				48.7992539
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/341",
+		"fields": 
+		{
+			"latitude": "49.0996486",
+			"wgs84": 
+			[
+				49.0996486,
+				2.52551521
+			],
+
+			"nom_de_la_gare": "Survilliers-Fosses",
+			"longitude": "2.52551521"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.52551521,
+				49.0996486
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/346",
+		"fields": 
+		{
+			"latitude": "49.00682509",
+			"wgs84": 
+			[
+				49.00682509,
+				1.92014484
+			],
+
+			"nom_de_la_gare": "Thun-le-Paradis",
+			"longitude": "1.92014484"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.92014484,
+				49.00682509
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/353",
+		"fields": 
+		{
+			"latitude": "48.85421812",
+			"wgs84": 
+			[
+				48.85421812,
+				2.48920076
+			],
+
+			"nom_de_la_gare": "Val-de-Fontenay",
+			"longitude": "2.48920076"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.48920076,
+				48.85421812
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/358",
+		"fields": 
+		{
+			"latitude": "48.8366945",
+			"wgs84": 
+			[
+				48.8366945,
+				2.15242339
+			],
+
+			"nom_de_la_gare": "Vaucresson",
+			"longitude": "2.15242339"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.15242339,
+				48.8366945
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/360",
+		"fields": 
+		{
+			"latitude": "48.64469315",
+			"wgs84": 
+			[
+				48.64469315,
+				2.8249299
+			],
+
+			"nom_de_la_gare": "Verneuil-l'\u00c9tang",
+			"longitude": "2.8249299"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.8249299,
+				48.64469315
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/365",
+		"fields": 
+		{
+			"latitude": "48.80002309",
+			"wgs84": 
+			[
+				48.80002309,
+				2.12990951
+			],
+
+			"nom_de_la_gare": "Versailles-Rive-Gauche",
+			"longitude": "2.12990951"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.12990951,
+				48.80002309
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/372",
+		"fields": 
+		{
+			"latitude": "48.76388388",
+			"wgs84": 
+			[
+				48.76388388,
+				2.43346692
+			],
+
+			"nom_de_la_gare": "Villeneuve-Prairie",
+			"longitude": "2.43346692"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.43346692,
+				48.76388388
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/377",
+		"fields": 
+		{
+			"latitude": "48.96311635",
+			"wgs84": 
+			[
+				48.96311635,
+				2.51233301
+			],
+
+			"nom_de_la_gare": "Villepinte",
+			"longitude": "2.51233301"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.51233301,
+				48.96311635
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/384",
+		"fields": 
+		{
+			"latitude": "48.80068914",
+			"wgs84": 
+			[
+				48.80068914,
+				2.17075412
+			],
+
+			"nom_de_la_gare": "Viroflay-Rive-Gauche",
+			"longitude": "2.17075412"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.17075412,
+				48.80068914
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/389",
+		"fields": 
+		{
+			"latitude": "48.70640008",
+			"wgs84": 
+			[
+				48.70640008,
+				2.48275684
+			],
+
+			"nom_de_la_gare": "Yerres",
+			"longitude": "2.48275684"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.48275684,
+				48.70640008
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/2",
+		"fields": 
+		{
+			"latitude": "48.96934471",
+			"wgs84": 
+			[
+				48.96934471,
+				2.07779257
+			],
+
+			"nom_de_la_gare": "Ach\u00e8res-Ville",
+			"longitude": "2.07779257"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07779257,
+				48.96934471
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/7",
+		"fields": 
+		{
+			"latitude": "48.90530364",
+			"wgs84": 
+			[
+				48.90530364,
+				2.2837837
+			],
+
+			"nom_de_la_gare": "Asni\u00e8res-sur-Seine",
+			"longitude": "2.2837837"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2837837,
+				48.90530364
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/14",
+		"fields": 
+		{
+			"latitude": "48.86494141",
+			"wgs84": 
+			[
+				48.86494141,
+				2.27211387
+			],
+
+			"nom_de_la_gare": "Avenue-Henri-Martin",
+			"longitude": "2.27211387"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27211387,
+				48.86494141
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/19",
+		"fields": 
+		{
+			"latitude": "48.81877",
+			"wgs84": 
+			[
+				48.81877,
+				2.23010152
+			],
+
+			"nom_de_la_gare": "Bellevue",
+			"longitude": "2.23010152"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23010152,
+				48.81877
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/21",
+		"fields": 
+		{
+			"latitude": "49.03546158",
+			"wgs84": 
+			[
+				49.03546158,
+				2.21027426
+			],
+
+			"nom_de_la_gare": "Bessancourt",
+			"longitude": "2.21027426"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.21027426,
+				49.03546158
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/26",
+		"fields": 
+		{
+			"latitude": "48.91373369",
+			"wgs84": 
+			[
+				48.91373369,
+				2.2719113
+			],
+
+			"nom_de_la_gare": "Bois-Colombes",
+			"longitude": "2.2719113"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2719113,
+				48.91373369
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/33",
+		"fields": 
+		{
+			"latitude": "48.85401713",
+			"wgs84": 
+			[
+				48.85401713,
+				2.13205423
+			],
+
+			"nom_de_la_gare": "Bougival",
+			"longitude": "2.13205423"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.13205423,
+				48.85401713
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/38",
+		"fields": 
+		{
+			"latitude": "48.68098018",
+			"wgs84": 
+			[
+				48.68098018,
+				2.53300897
+			],
+
+			"nom_de_la_gare": "Boussy-St-Antoine",
+			"longitude": "2.53300897"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.53300897,
+				48.68098018
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/40",
+		"fields": 
+		{
+			"latitude": "48.6062413",
+			"wgs84": 
+			[
+				48.6062413,
+				2.30192567
+			],
+
+			"nom_de_la_gare": "Br\u00e9tigny",
+			"longitude": "2.30192567"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30192567,
+				48.6062413
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/45",
+		"fields": 
+		{
+			"latitude": "49.15520307",
+			"wgs84": 
+			[
+				49.15520307,
+				2.32707235
+			],
+
+			"nom_de_la_gare": "Bruy\u00e8res-sur-Oise",
+			"longitude": "2.32707235"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32707235,
+				49.15520307
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/52",
+		"fields": 
+		{
+			"latitude": "48.81427579",
+			"wgs84": 
+			[
+				48.81427579,
+				3.15191098
+			],
+
+			"nom_de_la_gare": "Chailly-Boissy-Le Ch\u00e2tel",
+			"longitude": "3.15191098"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.15191098,
+				48.81427579
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/57",
+		"fields": 
+		{
+			"latitude": "48.97974452",
+			"wgs84": 
+			[
+				48.97974452,
+				2.29175179
+			],
+
+			"nom_de_la_gare": "Champ-de-Courses-d'Enghien",
+			"longitude": "2.29175179"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29175179,
+				48.97974452
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/64",
+		"fields": 
+		{
+			"latitude": "48.81182559",
+			"wgs84": 
+			[
+				48.81182559,
+				2.18764459
+			],
+
+			"nom_de_la_gare": "Chaville-Rive-Droite",
+			"longitude": "2.18764459"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.18764459,
+				48.81182559
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/69",
+		"fields": 
+		{
+			"latitude": "48.8774691",
+			"wgs84": 
+			[
+				48.8774691,
+				2.5526759
+			],
+
+			"nom_de_la_gare": "Chenay-Gagny",
+			"longitude": "2.5526759"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.5526759,
+				48.8774691
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/71",
+		"fields": 
+		{
+			"latitude": "48.76400227",
+			"wgs84": 
+			[
+				48.76400227,
+				2.41117858
+			],
+
+			"nom_de_la_gare": "Choisy-le-Roi",
+			"longitude": "2.41117858"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.41117858,
+				48.76400227
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/76",
+		"fields": 
+		{
+			"latitude": "48.66746117",
+			"wgs84": 
+			[
+				48.66746117,
+				2.54797083
+			],
+
+			"nom_de_la_gare": "Combs-la-Ville-Quincy",
+			"longitude": "2.54797083"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.54797083,
+				48.66746117
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/83",
+		"fields": 
+		{
+			"latitude": "48.88281112",
+			"wgs84": 
+			[
+				48.88281112,
+				2.85425658
+			],
+
+			"nom_de_la_gare": "Couilly-St-Germain",
+			"longitude": "2.85425658"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.85425658,
+				48.88281112
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/88",
+		"fields": 
+		{
+			"latitude": "49.03244843",
+			"wgs84": 
+			[
+				49.03244843,
+				2.69951364
+			],
+
+			"nom_de_la_gare": "Dammartin-Juilly-St-Mard",
+			"longitude": "2.69951364"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.69951364,
+				49.03244843
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/90",
+		"fields": 
+		{
+			"latitude": "49.03287634",
+			"wgs84": 
+			[
+				49.03287634,
+				2.33785256
+			],
+
+			"nom_de_la_gare": "Domont",
+			"longitude": "2.33785256"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.33785256,
+				49.03287634
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/95",
+		"fields": 
+		{
+			"latitude": "48.58241116",
+			"wgs84": 
+			[
+				48.58241116,
+				2.22221162
+			],
+
+			"nom_de_la_gare": "\u00c9gly",
+			"longitude": "2.22221162"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.22221162,
+				48.58241116
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/101",
+		"fields": 
+		{
+			"latitude": "49.05549651",
+			"wgs84": 
+			[
+				49.05549651,
+				2.12346104
+			],
+
+			"nom_de_la_gare": "\u00c9pluches",
+			"longitude": "2.12346104"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.12346104,
+				49.05549651
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/106",
+		"fields": 
+		{
+			"latitude": "48.90314191",
+			"wgs84": 
+			[
+				48.90314191,
+				2.81059946
+			],
+
+			"nom_de_la_gare": "Esbly",
+			"longitude": "2.81059946"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.81059946,
+				48.90314191
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/113",
+		"fields": 
+		{
+			"latitude": "48.41621433",
+			"wgs84": 
+			[
+				48.41621433,
+				2.72678747
+			],
+
+			"nom_de_la_gare": "Fontainebleau-Avon",
+			"longitude": "2.72678747"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.72678747,
+				48.41621433
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/118",
+		"fields": 
+		{
+			"latitude": "48.88348461",
+			"wgs84": 
+			[
+				48.88348461,
+				2.52648804
+			],
+
+			"nom_de_la_gare": "Gagny",
+			"longitude": "2.52648804"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.52648804,
+				48.88348461
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/120",
+		"fields": 
+		{
+			"latitude": "48.8379762",
+			"wgs84": 
+			[
+				48.8379762,
+				2.18667743
+			],
+
+			"nom_de_la_gare": "Garches-Marnes-la-Coquette",
+			"longitude": "2.18667743"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.18667743,
+				48.8379762
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/125",
+		"fields": 
+		{
+			"latitude": "49.02404742",
+			"wgs84": 
+			[
+				49.02404742,
+				2.46350095
+			],
+
+			"nom_de_la_gare": "Goussainville",
+			"longitude": "2.46350095"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.46350095,
+				49.02404742
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/132",
+		"fields": 
+		{
+			"latitude": "48.99713054",
+			"wgs84": 
+			[
+				48.99713054,
+				2.25906095
+			],
+
+			"nom_de_la_gare": "Gros-Noyer-St-Prix",
+			"longitude": "2.25906095"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25906095,
+				48.99713054
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/137",
+		"fields": 
+		{
+			"latitude": "48.44118895",
+			"wgs84": 
+			[
+				48.44118895,
+				2.75912871
+			],
+
+			"nom_de_la_gare": "H\u00e9ricy",
+			"longitude": "2.75912871"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.75912871,
+				48.44118895
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/144",
+		"fields": 
+		{
+			"latitude": "48.82073961",
+			"wgs84": 
+			[
+				48.82073961,
+				2.26084823
+			],
+
+			"nom_de_la_gare": "Issy",
+			"longitude": "2.26084823"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26084823,
+				48.82073961
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/149",
+		"fields": 
+		{
+			"latitude": "48.79062308",
+			"wgs84": 
+			[
+				48.79062308,
+				3.27350773
+			],
+
+			"nom_de_la_gare": "Jouy-sur-Morin-Le Marais",
+			"longitude": "3.27350773"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.27350773,
+				48.79062308
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/151",
+		"fields": 
+		{
+			"latitude": "48.99222471",
+			"wgs84": 
+			[
+				48.99222471,
+				1.84592763
+			],
+
+			"nom_de_la_gare": "Juziers",
+			"longitude": "1.84592763"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.84592763,
+				48.99222471
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/156",
+		"fields": 
+		{
+			"latitude": "48.78218625",
+			"wgs84": 
+			[
+				48.78218625,
+				3.29770264
+			],
+
+			"nom_de_la_gare": "La Fert\u00e9-Gaucher",
+			"longitude": "3.29770264"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.29770264,
+				48.78218625
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/163",
+		"fields": 
+		{
+			"latitude": "48.88218325",
+			"wgs84": 
+			[
+				48.88218325,
+				2.70404228
+			],
+
+			"nom_de_la_gare": "Lagny-Thorigny",
+			"longitude": "2.70404228"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.70404228,
+				48.88218325
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/168",
+		"fields": 
+		{
+			"latitude": "48.54002724",
+			"wgs84": 
+			[
+				48.54002724,
+				2.62377115
+			],
+
+			"nom_de_la_gare": "Le M\u00e9e",
+			"longitude": "2.62377115"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.62377115,
+				48.54002724
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/170",
+		"fields": 
+		{
+			"latitude": "48.57382664",
+			"wgs84": 
+			[
+				48.57382664,
+				2.47949934
+			],
+
+			"nom_de_la_gare": "Le Plessis-Chenet",
+			"longitude": "2.47949934"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.47949934,
+				48.57382664
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/175",
+		"fields": 
+		{
+			"latitude": "48.78822143",
+			"wgs84": 
+			[
+				48.78822143,
+				2.43211122
+			],
+
+			"nom_de_la_gare": "Le Vert-de-Maisons",
+			"longitude": "2.43211122"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.43211122,
+				48.78822143
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/182",
+		"fields": 
+		{
+			"latitude": "48.99242747",
+			"wgs84": 
+			[
+				48.99242747,
+				1.91304035
+			],
+
+			"nom_de_la_gare": "Les Mureaux",
+			"longitude": "1.91304035"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.91304035,
+				48.99242747
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/187",
+		"fields": 
+		{
+			"latitude": "48.86855142",
+			"wgs84": 
+			[
+				48.86855142,
+				2.07760505
+			],
+
+			"nom_de_la_gare": "L'\u00c9tang-la-Ville",
+			"longitude": "2.07760505"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07760505,
+				48.86855142
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/194",
+		"fields": 
+		{
+			"latitude": "48.51548817",
+			"wgs84": 
+			[
+				48.51548817,
+				3.24788339
+			],
+
+			"nom_de_la_gare": "Longueville (Seine-et-Marne)",
+			"longitude": "3.24788339"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.24788339,
+				48.51548817
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/0",
+		"fields": 
+		{
+			"latitude": "48.72511352",
+			"wgs84": 
+			[
+				48.72511352,
+				2.41895695
+			],
+
+			"nom_de_la_gare": "Ablon",
+			"longitude": "2.41895695"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.41895695,
+				48.72511352
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/5",
+		"fields": 
+		{
+			"latitude": "48.946542",
+			"wgs84": 
+			[
+				48.946542,
+				2.25778109
+			],
+
+			"nom_de_la_gare": "Argenteuil",
+			"longitude": "2.25778109"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25778109,
+				48.946542
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/12",
+		"fields": 
+		{
+			"latitude": "49.07091663",
+			"wgs84": 
+			[
+				49.07091663,
+				2.17650077
+			],
+
+			"nom_de_la_gare": "Auvers-sur-Oise",
+			"longitude": "2.17650077"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.17650077,
+				49.07091663
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/17",
+		"fields": 
+		{
+			"latitude": "48.53233619",
+			"wgs84": 
+			[
+				48.53233619,
+				2.37136922
+			],
+
+			"nom_de_la_gare": "Ballancourt",
+			"longitude": "2.37136922"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37136922,
+				48.53233619
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/24",
+		"fields": 
+		{
+			"latitude": "48.75124224",
+			"wgs84": 
+			[
+				48.75124224,
+				2.21556337
+			],
+
+			"nom_de_la_gare": "Bi\u00e8vres",
+			"longitude": "2.21556337"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.21556337,
+				48.75124224
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/29",
+		"fields": 
+		{
+			"latitude": "49.07593491",
+			"wgs84": 
+			[
+				49.07593491,
+				2.02452277
+			],
+
+			"nom_de_la_gare": "Boissy-l'Aillerie",
+			"longitude": "2.02452277"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.02452277,
+				49.07593491
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/31",
+		"fields": 
+		{
+			"latitude": "49.03875017",
+			"wgs84": 
+			[
+				49.03875017,
+				1.58130571
+			],
+
+			"nom_de_la_gare": "Bonni\u00e8res",
+			"longitude": "1.58130571"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.58130571,
+				49.03875017
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/36",
+		"fields": 
+		{
+			"latitude": "48.5332486",
+			"wgs84": 
+			[
+				48.5332486,
+				2.29030989
+			],
+
+			"nom_de_la_gare": "Bouray",
+			"longitude": "2.29030989"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29030989,
+				48.5332486
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/43",
+		"fields": 
+		{
+			"latitude": "48.94412676",
+			"wgs84": 
+			[
+				48.94412676,
+				1.54302155
+			],
+
+			"nom_de_la_gare": "Br\u00e9val",
+			"longitude": "1.54302155"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.54302155,
+				48.94412676
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/48",
+		"fields": 
+		{
+			"latitude": "49.03665236",
+			"wgs84": 
+			[
+				49.03665236,
+				2.07964728
+			],
+
+			"nom_de_la_gare": "Cergy-Pr\u00e9fecture",
+			"longitude": "2.07964728"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07964728,
+				49.03665236
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/50",
+		"fields": 
+		{
+			"latitude": "48.98528156",
+			"wgs84": 
+			[
+				48.98528156,
+				2.25702477
+			],
+
+			"nom_de_la_gare": "Cernay (Val-d'Oise)",
+			"longitude": "2.25702477"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25702477,
+				48.98528156
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/55",
+		"fields": 
+		{
+			"latitude": "49.13573977",
+			"wgs84": 
+			[
+				49.13573977,
+				2.24207975
+			],
+
+			"nom_de_la_gare": "Champagne-sur-Oise",
+			"longitude": "2.24207975"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.24207975,
+				49.13573977
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/62",
+		"fields": 
+		{
+			"latitude": "49.16299343",
+			"wgs84": 
+			[
+				49.16299343,
+				1.93670429
+			],
+
+			"nom_de_la_gare": "Chars",
+			"longitude": "1.93670429"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.93670429,
+				49.16299343
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/67",
+		"fields": 
+		{
+			"latitude": "48.87427053",
+			"wgs84": 
+			[
+				48.87427053,
+				2.58320309
+			],
+
+			"nom_de_la_gare": "Chelles-Gournay",
+			"longitude": "2.58320309"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.58320309,
+				48.87427053
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/74",
+		"fields": 
+		{
+			"latitude": "48.74402948",
+			"wgs84": 
+			[
+				48.74402948,
+				1.92181267
+			],
+
+			"nom_de_la_gare": "Coigni\u00e8res",
+			"longitude": "1.92181267"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.92181267,
+				48.74402948
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/79",
+		"fields": 
+		{
+			"latitude": "48.99678339",
+			"wgs84": 
+			[
+				48.99678339,
+				2.09880252
+			],
+
+			"nom_de_la_gare": "Conflans-Sainte-Honorine",
+			"longitude": "2.09880252"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.09880252,
+				48.99678339
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/81",
+		"fields": 
+		{
+			"latitude": "48.96852499",
+			"wgs84": 
+			[
+				48.96852499,
+				2.19344504
+			],
+
+			"nom_de_la_gare": "Cormeilles-en-Parisis",
+			"longitude": "2.19344504"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.19344504,
+				48.96852499
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/86",
+		"fields": 
+		{
+			"latitude": "48.85965898",
+			"wgs84": 
+			[
+				48.85965898,
+				2.90563909
+			],
+
+			"nom_de_la_gare": "Cr\u00e9cy-en-Brie-La Chapelle",
+			"longitude": "2.90563909"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.90563909,
+				48.85965898
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/93",
+		"fields": 
+		{
+			"latitude": "48.93251532",
+			"wgs84": 
+			[
+				48.93251532,
+				2.45560919
+			],
+
+			"nom_de_la_gare": "Drancy",
+			"longitude": "2.45560919"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.45560919,
+				48.93251532
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/98",
+		"fields": 
+		{
+			"latitude": "48.66933774",
+			"wgs84": 
+			[
+				48.66933774,
+				2.33223865
+			],
+
+			"nom_de_la_gare": "\u00c9pinay-sur-Orge",
+			"longitude": "2.33223865"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.33223865,
+				48.66933774
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/104",
+		"fields": 
+		{
+			"latitude": "48.98054383",
+			"wgs84": 
+			[
+				48.98054383,
+				2.27276445
+			],
+
+			"nom_de_la_gare": "Ermont-Eaubonne",
+			"longitude": "2.27276445"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27276445,
+				48.98054383
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/109",
+		"fields": 
+		{
+			"latitude": "48.49364075",
+			"wgs84": 
+			[
+				48.49364075,
+				2.19445169
+			],
+
+			"nom_de_la_gare": "\u00c9tr\u00e9chy",
+			"longitude": "2.19445169"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.19445169,
+				48.49364075
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/111",
+		"fields": 
+		{
+			"latitude": "48.6258439",
+			"wgs84": 
+			[
+				48.6258439,
+				2.42960041
+			],
+
+			"nom_de_la_gare": "\u00c9vry-Courcouronnes",
+			"longitude": "2.42960041"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.42960041,
+				48.6258439
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/116",
+		"fields": 
+		{
+			"latitude": "48.99355641",
+			"wgs84": 
+			[
+				48.99355641,
+				2.23498585
+			],
+
+			"nom_de_la_gare": "Franconville-Plessis-Bouchard",
+			"longitude": "2.23498585"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23498585,
+				48.99355641
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/123",
+		"fields": 
+		{
+			"latitude": "48.62596118",
+			"wgs84": 
+			[
+				48.62596118,
+				1.77084936
+			],
+
+			"nom_de_la_gare": "Gazeran",
+			"longitude": "1.77084936"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.77084936,
+				48.62596118
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/128",
+		"fields": 
+		{
+			"latitude": "48.74533004",
+			"wgs84": 
+			[
+				48.74533004,
+				2.72864839
+			],
+
+			"nom_de_la_gare": "Gretz-Armainvilliers",
+			"longitude": "2.72864839"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.72864839,
+				48.74533004
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/130",
+		"fields": 
+		{
+			"latitude": "48.66854282",
+			"wgs84": 
+			[
+				48.66854282,
+				2.39704155
+			],
+
+			"nom_de_la_gare": "Grigny-Val-de-Seine",
+			"longitude": "2.39704155"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.39704155,
+				48.66854282
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/135",
+		"fields": 
+		{
+			"latitude": "48.87494725",
+			"wgs84": 
+			[
+				48.87494725,
+				2.33092209
+			],
+
+			"nom_de_la_gare": "Haussmann-St-Lazare",
+			"longitude": "2.33092209"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.33092209,
+				48.87494725
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/142",
+		"fields": 
+		{
+			"latitude": "48.99814127",
+			"wgs84": 
+			[
+				48.99814127,
+				3.00755085
+			],
+
+			"nom_de_la_gare": "Isles-Armenti\u00e8res",
+			"longitude": "3.00755085"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.00755085,
+				48.99814127
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/147",
+		"fields": 
+		{
+			"latitude": "48.8481524",
+			"wgs84": 
+			[
+				48.8481524,
+				2.27929997
+			],
+
+			"nom_de_la_gare": "Javel",
+			"longitude": "2.27929997"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27929997,
+				48.8481524
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/154",
+		"fields": 
+		{
+			"latitude": "48.89310658",
+			"wgs84": 
+			[
+				48.89310658,
+				2.23788983
+			],
+
+			"nom_de_la_gare": "La D\u00e9fense",
+			"longitude": "2.23788983"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23788983,
+				48.89310658
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/159",
+		"fields": 
+		{
+			"latitude": "48.90982965",
+			"wgs84": 
+			[
+				48.90982965,
+				2.23904001
+			],
+
+			"nom_de_la_gare": "La Garenne-Colombes",
+			"longitude": "2.23904001"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23904001,
+				48.90982965
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/161",
+		"fields": 
+		{
+			"latitude": "48.91796145",
+			"wgs84": 
+			[
+				48.91796145,
+				2.36253656
+			],
+
+			"nom_de_la_gare": "La Plaine-Stade-de-France",
+			"longitude": "2.36253656"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36253656,
+				48.91796145
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/166",
+		"fields": 
+		{
+			"latitude": "48.93078572",
+			"wgs84": 
+			[
+				48.93078572,
+				2.42564899
+			],
+
+			"nom_de_la_gare": "Le Bourget",
+			"longitude": "2.42564899"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.42564899,
+				48.93078572
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/173",
+		"fields": 
+		{
+			"latitude": "48.95024354",
+			"wgs84": 
+			[
+				48.95024354,
+				2.23075295
+			],
+
+			"nom_de_la_gare": "Val d'Argenteuil",
+			"longitude": "2.23075295"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23075295,
+				48.95024354
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/178",
+		"fields": 
+		{
+			"latitude": "48.89694042",
+			"wgs84": 
+			[
+				48.89694042,
+				2.80579988
+			],
+
+			"nom_de_la_gare": "Les Champs-Forts",
+			"longitude": "2.80579988"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.80579988,
+				48.89694042
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/180",
+		"fields": 
+		{
+			"latitude": "48.72190027",
+			"wgs84": 
+			[
+				48.72190027,
+				1.89006795
+			],
+
+			"nom_de_la_gare": "Les Essarts-le-Roi",
+			"longitude": "1.89006795"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.89006795,
+				48.72190027
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/185",
+		"fields": 
+		{
+			"latitude": "48.91364553",
+			"wgs84": 
+			[
+				48.91364553,
+				2.25721035
+			],
+
+			"nom_de_la_gare": "Les Vall\u00e9es",
+			"longitude": "2.25721035"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25721035,
+				48.91364553
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/192",
+		"fields": 
+		{
+			"latitude": "49.02189391",
+			"wgs84": 
+			[
+				49.02189391,
+				3.03193665
+			],
+
+			"nom_de_la_gare": "Lizy-sur-Ourcq",
+			"longitude": "3.03193665"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.03193665,
+				49.02189391
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/197",
+		"fields": 
+		{
+			"latitude": "49.11771502",
+			"wgs84": 
+			[
+				49.11771502,
+				2.42157984
+			],
+
+			"nom_de_la_gare": "Luzarches",
+			"longitude": "2.42157984"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.42157984,
+				49.11771502
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/200",
+		"fields": 
+		{
+			"latitude": "48.94595448",
+			"wgs84": 
+			[
+				48.94595448,
+				2.14419061
+			],
+
+			"nom_de_la_gare": "Maisons-Laffitte",
+			"longitude": "2.14419061"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.14419061,
+				48.94595448
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/205",
+		"fields": 
+		{
+			"latitude": "48.89390492",
+			"wgs84": 
+			[
+				48.89390492,
+				1.8713803
+			],
+
+			"nom_de_la_gare": "Mareil-sur-Mauldre",
+			"longitude": "1.8713803"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.8713803,
+				48.89390492
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/212",
+		"fields": 
+		{
+			"latitude": "48.72865309",
+			"wgs84": 
+			[
+				48.72865309,
+				2.26495523
+			],
+
+			"nom_de_la_gare": "Massy-TGV",
+			"longitude": "2.26495523"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26495523,
+				48.72865309
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/217",
+		"fields": 
+		{
+			"latitude": "48.52723071",
+			"wgs84": 
+			[
+				48.52723071,
+				2.65577063
+			],
+
+			"nom_de_la_gare": "Melun",
+			"longitude": "2.65577063"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.65577063,
+				48.52723071
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/224",
+		"fields": 
+		{
+			"latitude": "49.00577775",
+			"wgs84": 
+			[
+				49.00577775,
+				1.9017054
+			],
+
+			"nom_de_la_gare": "Meulan-Hardricourt",
+			"longitude": "1.9017054"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.9017054,
+				49.00577775
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/229",
+		"fields": 
+		{
+			"latitude": "48.7085866",
+			"wgs84": 
+			[
+				48.7085866,
+				2.46159826
+			],
+
+			"nom_de_la_gare": "Montgeron-Crosne",
+			"longitude": "2.46159826"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.46159826,
+				48.7085866
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/231",
+		"fields": 
+		{
+			"latitude": "49.0077757",
+			"wgs84": 
+			[
+				49.0077757,
+				2.19682364
+			],
+
+			"nom_de_la_gare": "Montigny-Beauchamp",
+			"longitude": "2.19682364"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.19682364,
+				49.0077757
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/236",
+		"fields": 
+		{
+			"latitude": "48.37872415",
+			"wgs84": 
+			[
+				48.37872415,
+				2.79963045
+			],
+
+			"nom_de_la_gare": "Moret-Veneux-les-Sablons",
+			"longitude": "2.79963045"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.79963045,
+				48.37872415
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/243",
+		"fields": 
+		{
+			"latitude": "48.90151257",
+			"wgs84": 
+			[
+				48.90151257,
+				2.21516659
+			],
+
+			"nom_de_la_gare": "Nanterre-Universit\u00e9",
+			"longitude": "2.21516659"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.21516659,
+				48.90151257
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/248",
+		"fields": 
+		{
+			"latitude": "48.9385208",
+			"wgs84": 
+			[
+				48.9385208,
+				1.84066527
+			],
+
+			"nom_de_la_gare": "N\u00e9zel-Aulnay",
+			"longitude": "1.84066527"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.84066527,
+				48.9385208
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/250",
+		"fields": 
+		{
+			"latitude": "49.13281247",
+			"wgs84": 
+			[
+				49.13281247,
+				2.28003305
+			],
+
+			"nom_de_la_gare": "Nointel-Mours",
+			"longitude": "2.28003305"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.28003305,
+				49.13281247
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/255",
+		"fields": 
+		{
+			"latitude": "48.82682745",
+			"wgs84": 
+			[
+				48.82682745,
+				1.70197869
+			],
+
+			"nom_de_la_gare": "Orgerus-B\u00e9houst",
+			"longitude": "1.70197869"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.70197869,
+				48.82682745
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/262",
+		"fields": 
+		{
+			"latitude": "48.84049256",
+			"wgs84": 
+			[
+				48.84049256,
+				2.36701897
+			],
+
+			"nom_de_la_gare": "Paris-Austerlitz (Banlieue)",
+			"longitude": "2.36701897"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36701897,
+				48.84049256
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/267",
+		"fields": 
+		{
+			"latitude": "48.8816391",
+			"wgs84": 
+			[
+				48.8816391,
+				2.35614126
+			],
+
+			"nom_de_la_gare": "Paris-Nord-Surface",
+			"longitude": "2.35614126"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35614126,
+				48.8816391
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/274",
+		"fields": 
+		{
+			"latitude": "49.1481479",
+			"wgs84": 
+			[
+				49.1481479,
+				2.27908768
+			],
+
+			"nom_de_la_gare": "Persan-Beaumont",
+			"longitude": "2.27908768"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27908768,
+				49.1481479
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/279",
+		"fields": 
+		{
+			"latitude": "48.83217504",
+			"wgs84": 
+			[
+				48.83217504,
+				1.94315057
+			],
+
+			"nom_de_la_gare": "Plaisir-Grignon",
+			"longitude": "1.94315057"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.94315057,
+				48.83217504
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/281",
+		"fields": 
+		{
+			"latitude": "48.93298215",
+			"wgs84": 
+			[
+				48.93298215,
+				2.04078793
+			],
+
+			"nom_de_la_gare": "Poissy",
+			"longitude": "2.04078793"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.04078793,
+				48.93298215
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/286",
+		"fields": 
+		{
+			"latitude": "49.04672684",
+			"wgs84": 
+			[
+				49.04672684,
+				2.09592436
+			],
+
+			"nom_de_la_gare": "Pontoise",
+			"longitude": "2.09592436"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.09592436,
+				49.04672684
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/293",
+		"fields": 
+		{
+			"latitude": "48.88363942",
+			"wgs84": 
+			[
+				48.88363942,
+				2.23390843
+			],
+
+			"nom_de_la_gare": "Puteaux",
+			"longitude": "2.23390843"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23390843,
+				48.88363942
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/298",
+		"fields": 
+		{
+			"latitude": "49.00365764",
+			"wgs84": 
+			[
+				49.00365764,
+				2.57089107
+			],
+
+			"nom_de_la_gare": "Roissy-A\u00e9roport-CDG 2-RER",
+			"longitude": "2.57089107"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.57089107,
+				49.00365764
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/301",
+		"fields": 
+		{
+			"latitude": "48.87039298",
+			"wgs84": 
+			[
+				48.87039298,
+				2.48568362
+			],
+
+			"nom_de_la_gare": "Rosny-sous-Bois",
+			"longitude": "2.48568362"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.48568362,
+				48.87039298
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/306",
+		"fields": 
+		{
+			"latitude": "48.99541444",
+			"wgs84": 
+			[
+				48.99541444,
+				2.36846055
+			],
+
+			"nom_de_la_gare": "Sarcelles-St-Brice",
+			"longitude": "2.36846055"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36846055,
+				48.99541444
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/313",
+		"fields": 
+		{
+			"latitude": "48.93652124",
+			"wgs84": 
+			[
+				48.93652124,
+				2.53568626
+			],
+
+			"nom_de_la_gare": "Sevran-Livry",
+			"longitude": "2.53568626"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.53568626,
+				48.93652124
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/318",
+		"fields": 
+		{
+			"latitude": "48.55095307",
+			"wgs84": 
+			[
+				48.55095307,
+				2.12530148
+			],
+
+			"nom_de_la_gare": "St-Ch\u00e9ron",
+			"longitude": "2.12530148"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.12530148,
+				48.55095307
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/320",
+		"fields": 
+		{
+			"latitude": "48.79880605",
+			"wgs84": 
+			[
+				48.79880605,
+				2.07326256
+			],
+
+			"nom_de_la_gare": "St-Cyr",
+			"longitude": "2.07326256"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07326256,
+				48.79880605
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/325",
+		"fields": 
+		{
+			"latitude": "48.89455198",
+			"wgs84": 
+			[
+				48.89455198,
+				2.07007736
+			],
+
+			"nom_de_la_gare": "St-Germain-Bel-air",
+			"longitude": "2.07007736"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07007736,
+				48.89455198
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/332",
+		"fields": 
+		{
+			"latitude": "48.63534961",
+			"wgs84": 
+			[
+				48.63534961,
+				2.3068955
+			],
+
+			"nom_de_la_gare": "St-Michel-sur-Orge",
+			"longitude": "2.3068955"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.3068955,
+				48.63534961
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/337",
+		"fields": 
+		{
+			"latitude": "49.033839",
+			"wgs84": 
+			[
+				49.033839,
+				2.12839547
+			],
+
+			"nom_de_la_gare": "St-Ouen-l'Aum\u00f4ne-Liesse",
+			"longitude": "2.12839547"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.12839547,
+				49.033839
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/344",
+		"fields": 
+		{
+			"latitude": "49.00871011",
+			"wgs84": 
+			[
+				49.00871011,
+				2.68055395
+			],
+
+			"nom_de_la_gare": "Thieux-Nantouillet",
+			"longitude": "2.68055395"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.68055395,
+				49.00871011
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/349",
+		"fields": 
+		{
+			"latitude": "48.98073671",
+			"wgs84": 
+			[
+				48.98073671,
+				2.00612513
+			],
+
+			"nom_de_la_gare": "Triel-sur-Seine",
+			"longitude": "2.00612513"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.00612513,
+				48.98073671
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/351",
+		"fields": 
+		{
+			"latitude": "49.09904",
+			"wgs84": 
+			[
+				49.09904,
+				1.9707807
+			],
+
+			"nom_de_la_gare": "Us",
+			"longitude": "1.9707807"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.9707807,
+				49.09904
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/356",
+		"fields": 
+		{
+			"latitude": "48.75927519",
+			"wgs84": 
+			[
+				48.75927519,
+				2.19192819
+			],
+
+			"nom_de_la_gare": "Vauboyen",
+			"longitude": "2.19192819"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.19192819,
+				48.75927519
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/363",
+		"fields": 
+		{
+			"latitude": "48.79545026",
+			"wgs84": 
+			[
+				48.79545026,
+				2.13605862
+			],
+
+			"nom_de_la_gare": "Versailles-Chantiers",
+			"longitude": "2.13605862"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.13605862,
+				48.79545026
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/368",
+		"fields": 
+		{
+			"latitude": "48.70809968",
+			"wgs84": 
+			[
+				48.70809968,
+				2.41381897
+			],
+
+			"nom_de_la_gare": "Vigneux-sur-Seine",
+			"longitude": "2.41381897"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.41381897,
+				48.70809968
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/370",
+		"fields": 
+		{
+			"latitude": "49.07823101",
+			"wgs84": 
+			[
+				49.07823101,
+				2.34826214
+			],
+
+			"nom_de_la_gare": "Villaines (Val-d'Oise)",
+			"longitude": "2.34826214"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.34826214,
+				49.07823101
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/375",
+		"fields": 
+		{
+			"latitude": "48.93929964",
+			"wgs84": 
+			[
+				48.93929964,
+				1.99969329
+			],
+
+			"nom_de_la_gare": "Villennes-sur-Seine",
+			"longitude": "1.99969329"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.99969329,
+				48.93929964
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/382",
+		"fields": 
+		{
+			"latitude": "48.82327964",
+			"wgs84": 
+			[
+				48.82327964,
+				2.54255519
+			],
+
+			"nom_de_la_gare": "Villiers-sur-Marne-Le Plessis-Tr\u00e9vise",
+			"longitude": "2.54255519"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.54255519,
+				48.82327964
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/387",
+		"fields": 
+		{
+			"latitude": "48.5150546",
+			"wgs84": 
+			[
+				48.5150546,
+				2.59830615
+			],
+
+			"nom_de_la_gare": "Vosves",
+			"longitude": "2.59830615"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.59830615,
+				48.5150546
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/3",
+		"fields": 
+		{
+			"latitude": "48.97428336",
+			"wgs84": 
+			[
+				48.97428336,
+				2.04836467
+			],
+
+			"nom_de_la_gare": "Andr\u00e9sy",
+			"longitude": "2.04836467"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.04836467,
+				48.97428336
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/8",
+		"fields": 
+		{
+			"latitude": "48.71235485",
+			"wgs84": 
+			[
+				48.71235485,
+				2.40309682
+			],
+
+			"nom_de_la_gare": "Athis-Mons",
+			"longitude": "2.40309682"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.40309682,
+				48.71235485
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/10",
+		"fields": 
+		{
+			"latitude": "48.92409625",
+			"wgs84": 
+			[
+				48.92409625,
+				2.38554126
+			],
+
+			"nom_de_la_gare": "Aubervilliers-La Courneuve",
+			"longitude": "2.38554126"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.38554126,
+				48.92409625
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/15",
+		"fields": 
+		{
+			"latitude": "48.85356972",
+			"wgs84": 
+			[
+				48.85356972,
+				2.27964079
+			],
+
+			"nom_de_la_gare": "Avenue du Pdt Kennedy",
+			"longitude": "2.27964079"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27964079,
+				48.85356972
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/22",
+		"fields": 
+		{
+			"latitude": "48.8596507",
+			"wgs84": 
+			[
+				48.8596507,
+				1.87575067
+			],
+
+			"nom_de_la_gare": "Beynes",
+			"longitude": "1.87575067"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.87575067,
+				48.8596507
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/27",
+		"fields": 
+		{
+			"latitude": "48.47556449",
+			"wgs84": 
+			[
+				48.47556449,
+				2.69199082
+			],
+
+			"nom_de_la_gare": "Bois-le-Roi",
+			"longitude": "2.69199082"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.69199082,
+				48.47556449
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/34",
+		"fields": 
+		{
+			"latitude": "48.85715613",
+			"wgs84": 
+			[
+				48.85715613,
+				2.27484329
+			],
+
+			"nom_de_la_gare": "Boulainvilliers",
+			"longitude": "2.27484329"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27484329,
+				48.85715613
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/39",
+		"fields": 
+		{
+			"latitude": "48.43490547",
+			"wgs84": 
+			[
+				48.43490547,
+				2.3765515
+			],
+
+			"nom_de_la_gare": "Boutigny",
+			"longitude": "2.3765515"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.3765515,
+				48.43490547
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/41",
+		"fields": 
+		{
+			"latitude": "48.5777952",
+			"wgs84": 
+			[
+				48.5777952,
+				2.1928276
+			],
+
+			"nom_de_la_gare": "Breuillet-Bruy\u00e8res-le-Ch\u00e2tel",
+			"longitude": "2.1928276"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.1928276,
+				48.5777952
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/46",
+		"fields": 
+		{
+			"latitude": "48.37041326",
+			"wgs84": 
+			[
+				48.37041326,
+				2.38655509
+			],
+
+			"nom_de_la_gare": "Buno-Gironville",
+			"longitude": "2.38655509"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.38655509,
+				48.37041326
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/53",
+		"fields": 
+		{
+			"latitude": "48.5146592",
+			"wgs84": 
+			[
+				48.5146592,
+				2.21606956
+			],
+
+			"nom_de_la_gare": "Chamarande",
+			"longitude": "2.21606956"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.21606956,
+				48.5146592
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/58",
+		"fields": 
+		{
+			"latitude": "48.85868721",
+			"wgs84": 
+			[
+				48.85868721,
+				2.29204001
+			],
+
+			"nom_de_la_gare": "Champ-de-Mars-Tour-Eiffel",
+			"longitude": "2.29204001"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29204001,
+				48.85868721
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/60",
+		"fields": 
+		{
+			"latitude": "48.97028953",
+			"wgs84": 
+			[
+				48.97028953,
+				2.0272304
+			],
+
+			"nom_de_la_gare": "Chanteloup-les-Vignes",
+			"longitude": "2.0272304"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.0272304,
+				48.97028953
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/65",
+		"fields": 
+		{
+			"latitude": "48.80516548",
+			"wgs84": 
+			[
+				48.80516548,
+				2.18950975
+			],
+
+			"nom_de_la_gare": "Chaville-Rive-Gauche",
+			"longitude": "2.18950975"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.18950975,
+				48.80516548
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/72",
+		"fields": 
+		{
+			"latitude": "48.81416833",
+			"wgs84": 
+			[
+				48.81416833,
+				2.2741948
+			],
+
+			"nom_de_la_gare": "Clamart",
+			"longitude": "2.2741948"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2741948,
+				48.81416833
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/77",
+		"fields": 
+		{
+			"latitude": "48.99159648",
+			"wgs84": 
+			[
+				48.99159648,
+				2.66520593
+			],
+
+			"nom_de_la_gare": "Compans",
+			"longitude": "2.66520593"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.66520593,
+				48.99159648
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/84",
+		"fields": 
+		{
+			"latitude": "48.80765191",
+			"wgs84": 
+			[
+				48.80765191,
+				3.08181929
+			],
+
+			"nom_de_la_gare": "Coulommiers",
+			"longitude": "3.08181929"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.08181929,
+				48.80765191
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/89",
+		"fields": 
+		{
+			"latitude": "48.97561304",
+			"wgs84": 
+			[
+				48.97561304,
+				2.33777933
+			],
+
+			"nom_de_la_gare": "Deuil-Montmagny",
+			"longitude": "2.33777933"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.33777933,
+				48.97561304
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/91",
+		"fields": 
+		{
+			"latitude": "48.53354489",
+			"wgs84": 
+			[
+				48.53354489,
+				2.01016126
+			],
+
+			"nom_de_la_gare": "Dourdan",
+			"longitude": "2.01016126"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.01016126,
+				48.53354489
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/96",
+		"fields": 
+		{
+			"latitude": "48.80665662",
+			"wgs84": 
+			[
+				48.80665662,
+				2.61740486
+			],
+
+			"nom_de_la_gare": "\u00c9merainville-Pontault-Combault",
+			"longitude": "2.61740486"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.61740486,
+				48.80665662
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/102",
+		"fields": 
+		{
+			"latitude": "48.96329467",
+			"wgs84": 
+			[
+				48.96329467,
+				1.80928413
+			],
+
+			"nom_de_la_gare": "\u00c9p\u00f4ne-M\u00e9zi\u00e8res",
+			"longitude": "1.80928413"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.80928413,
+				48.96329467
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/107",
+		"fields": 
+		{
+			"latitude": "48.60618161",
+			"wgs84": 
+			[
+				48.60618161,
+				2.46367648
+			],
+
+			"nom_de_la_gare": "Essonnes-Robinson",
+			"longitude": "2.46367648"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.46367648,
+				48.60618161
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/114",
+		"fields": 
+		{
+			"latitude": "48.48711618",
+			"wgs84": 
+			[
+				48.48711618,
+				2.75322718
+			],
+
+			"nom_de_la_gare": "Fontaine-le-Port",
+			"longitude": "2.75322718"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.75322718,
+				48.48711618
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/119",
+		"fields": 
+		{
+			"latitude": "48.81042295",
+			"wgs84": 
+			[
+				48.81042295,
+				1.76458042
+			],
+
+			"nom_de_la_gare": "Garanci\u00e8res-la-Queue",
+			"longitude": "1.76458042"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.76458042,
+				48.81042295
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/121",
+		"fields": 
+		{
+			"latitude": "48.98306694",
+			"wgs84": 
+			[
+				48.98306694,
+				1.8092079
+			],
+
+			"nom_de_la_gare": "Gargenville",
+			"longitude": "1.8092079"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.8092079,
+				48.98306694
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/126",
+		"fields": 
+		{
+			"latitude": "48.64800154",
+			"wgs84": 
+			[
+				48.64800154,
+				2.43609562
+			],
+
+			"nom_de_la_gare": "Grand-Bourg",
+			"longitude": "2.43609562"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.43609562,
+				48.64800154
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/133",
+		"fields": 
+		{
+			"latitude": "48.81043409",
+			"wgs84": 
+			[
+				48.81043409,
+				2.95461365
+			],
+
+			"nom_de_la_gare": "Gu\u00e9rard-Celle-sur-Morin",
+			"longitude": "2.95461365"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.95461365,
+				48.81043409
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/138",
+		"fields": 
+		{
+			"latitude": "48.79604295",
+			"wgs84": 
+			[
+				48.79604295,
+				1.602841
+			],
+
+			"nom_de_la_gare": "Houdan",
+			"longitude": "1.602841"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.602841,
+				48.79604295
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/140",
+		"fields": 
+		{
+			"latitude": "48.73980059",
+			"wgs84": 
+			[
+				48.73980059,
+				2.23107095
+			],
+
+			"nom_de_la_gare": "Igny",
+			"longitude": "2.23107095"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.23107095,
+				48.73980059
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/145",
+		"fields": 
+		{
+			"latitude": "48.83112172",
+			"wgs84": 
+			[
+				48.83112172,
+				2.26462522
+			],
+
+			"nom_de_la_gare": "Issy Val de Seine",
+			"longitude": "2.26462522"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26462522,
+				48.83112172
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/152",
+		"fields": 
+		{
+			"latitude": "48.96653849",
+			"wgs84": 
+			[
+				48.96653849,
+				2.31629677
+			],
+
+			"nom_de_la_gare": "La Barre-Ormesson",
+			"longitude": "2.31629677"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31629677,
+				48.96653849
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/157",
+		"fields": 
+		{
+			"latitude": "48.95097194",
+			"wgs84": 
+			[
+				48.95097194,
+				3.12441277
+			],
+
+			"nom_de_la_gare": "La Fert\u00e9-sous-Jouarre",
+			"longitude": "3.12441277"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.12441277,
+				48.95097194
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/164",
+		"fields": 
+		{
+			"latitude": "48.52078541",
+			"wgs84": 
+			[
+				48.52078541,
+				2.25518159
+			],
+
+			"nom_de_la_gare": "Lardy",
+			"longitude": "2.25518159"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25518159,
+				48.52078541
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/169",
+		"fields": 
+		{
+			"latitude": "48.69473555",
+			"wgs84": 
+			[
+				48.69473555,
+				1.85704508
+			],
+
+			"nom_de_la_gare": "Le Perray",
+			"longitude": "1.85704508"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.85704508,
+				48.69473555
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/171",
+		"fields": 
+		{
+			"latitude": "48.88911158",
+			"wgs84": 
+			[
+				48.88911158,
+				2.51207805
+			],
+
+			"nom_de_la_gare": "Le Raincy-Villemomble-Montfermeil",
+			"longitude": "2.51207805"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.51207805,
+				48.88911158
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/176",
+		"fields": 
+		{
+			"latitude": "48.78426332",
+			"wgs84": 
+			[
+				48.78426332,
+				2.40924884
+			],
+
+			"nom_de_la_gare": "Les Ardoines",
+			"longitude": "2.40924884"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.40924884,
+				48.78426332
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/183",
+		"fields": 
+		{
+			"latitude": "49.03340652",
+			"wgs84": 
+			[
+				49.03340652,
+				2.47833354
+			],
+
+			"nom_de_la_gare": "Les Noues",
+			"longitude": "2.47833354"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.47833354,
+				49.03340652
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/188",
+		"fields": 
+		{
+			"latitude": "48.62785581",
+			"wgs84": 
+			[
+				48.62785581,
+				2.57013312
+			],
+
+			"nom_de_la_gare": "Lieusaint-Moissy",
+			"longitude": "2.57013312"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.57013312,
+				48.62785581
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/190",
+		"fields": 
+		{
+			"latitude": "49.11462988",
+			"wgs84": 
+			[
+				49.11462988,
+				2.2098225
+			],
+
+			"nom_de_la_gare": "L'Isle-Adam-Parmain",
+			"longitude": "2.2098225"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2098225,
+				49.11462988
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/195",
+		"fields": 
+		{
+			"latitude": "48.86124387",
+			"wgs84": 
+			[
+				48.86124387,
+				2.12272239
+			],
+
+			"nom_de_la_gare": "Louveciennes",
+			"longitude": "2.12272239"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.12272239,
+				48.86124387
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/203",
+		"fields": 
+		{
+			"latitude": "48.98462897",
+			"wgs84": 
+			[
+				48.98462897,
+				1.7139086
+			],
+
+			"nom_de_la_gare": "Mantes-Station",
+			"longitude": "1.7139086"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.7139086,
+				48.98462897
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/208",
+		"fields": 
+		{
+			"latitude": "48.87159548",
+			"wgs84": 
+			[
+				48.87159548,
+				2.09617386
+			],
+
+			"nom_de_la_gare": "Marly-le-Roi",
+			"longitude": "2.09617386"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.09617386,
+				48.87159548
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/210",
+		"fields": 
+		{
+			"latitude": "48.5653445",
+			"wgs84": 
+			[
+				48.5653445,
+				2.29089228
+			],
+
+			"nom_de_la_gare": "Marolles-en-Hurepoix",
+			"longitude": "2.29089228"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29089228,
+				48.5653445
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/215",
+		"fields": 
+		{
+			"latitude": "48.98736316",
+			"wgs84": 
+			[
+				48.98736316,
+				2.06016562
+			],
+
+			"nom_de_la_gare": "Maurecourt",
+			"longitude": "2.06016562"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.06016562,
+				48.98736316
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/222",
+		"fields": 
+		{
+			"latitude": "48.8147895",
+			"wgs84": 
+			[
+				48.8147895,
+				2.24084499
+			],
+
+			"nom_de_la_gare": "Meudon",
+			"longitude": "2.24084499"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.24084499,
+				48.8147895
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/227",
+		"fields": 
+		{
+			"latitude": "48.379593",
+			"wgs84": 
+			[
+				48.379593,
+				2.9427722
+			],
+
+			"nom_de_la_gare": "Montereau",
+			"longitude": "2.9427722"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.9427722,
+				48.379593
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/234",
+		"fields": 
+		{
+			"latitude": "48.89094162",
+			"wgs84": 
+			[
+				48.89094162,
+				2.82636259
+			],
+
+			"nom_de_la_gare": "Montry-Cond\u00e9",
+			"longitude": "2.82636259"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.82636259,
+				48.89094162
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/239",
+		"fields": 
+		{
+			"latitude": "48.58626993",
+			"wgs84": 
+			[
+				48.58626993,
+				2.47345147
+			],
+
+			"nom_de_la_gare": "Moulin-Galant",
+			"longitude": "2.47345147"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.47345147,
+				48.58626993
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/241",
+		"fields": 
+		{
+			"latitude": "48.86004047",
+			"wgs84": 
+			[
+				48.86004047,
+				2.32860474
+			],
+
+			"nom_de_la_gare": "Mus\u00e9e-d'Orsay",
+			"longitude": "2.32860474"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32860474,
+				48.86004047
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/246",
+		"fields": 
+		{
+			"latitude": "48.87787855",
+			"wgs84": 
+			[
+				48.87787855,
+				2.28466467
+			],
+
+			"nom_de_la_gare": "Neuilly-Porte-Maillot",
+			"longitude": "2.28466467"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.28466467,
+				48.87787855
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/253",
+		"fields": 
+		{
+			"latitude": "48.59184734",
+			"wgs84": 
+			[
+				48.59184734,
+				2.26737726
+			],
+
+			"nom_de_la_gare": "La Norville Saint-Germain les Arpajon",
+			"longitude": "2.26737726"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26737726,
+				48.59184734
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/258",
+		"fields": 
+		{
+			"latitude": "48.77052361",
+			"wgs84": 
+			[
+				48.77052361,
+				2.69041844
+			],
+
+			"nom_de_la_gare": "Ozoir-la-Ferri\u00e8re",
+			"longitude": "2.69041844"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.69041844,
+				48.77052361
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/260",
+		"fields": 
+		{
+			"latitude": "48.97343305",
+			"wgs84": 
+			[
+				48.97343305,
+				2.51389531
+			],
+
+			"nom_de_la_gare": "Parc-des-Expositions",
+			"longitude": "2.51389531"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.51389531,
+				48.97343305
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/265",
+		"fields": 
+		{
+			"latitude": "48.84384829",
+			"wgs84": 
+			[
+				48.84384829,
+				2.37468571
+			],
+
+			"nom_de_la_gare": "Paris-Gare-de-Lyon",
+			"longitude": "2.37468571"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37468571,
+				48.84384829
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/272",
+		"fields": 
+		{
+			"latitude": "48.83741008",
+			"wgs84": 
+			[
+				48.83741008,
+				2.31587817
+			],
+
+			"nom_de_la_gare": "Paris-Vaugirard",
+			"longitude": "2.31587817"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31587817,
+				48.83741008
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/277",
+		"fields": 
+		{
+			"latitude": "48.96396467",
+			"wgs84": 
+			[
+				48.96396467,
+				2.37249458
+			],
+
+			"nom_de_la_gare": "Pierrefitte-Stains",
+			"longitude": "2.37249458"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37249458,
+				48.96396467
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/284",
+		"fields": 
+		{
+			"latitude": "48.74754138",
+			"wgs84": 
+			[
+				48.74754138,
+				2.37138415
+			],
+
+			"nom_de_la_gare": "Pont-de-Rungis-A\u00e9roport-d'Orly",
+			"longitude": "2.37138415"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37138415,
+				48.74754138
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/289",
+		"fields": 
+		{
+			"latitude": "48.89357786",
+			"wgs84": 
+			[
+				48.89357786,
+				2.31164658
+			],
+
+			"nom_de_la_gare": "Porte-de-Clichy",
+			"longitude": "2.31164658"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31164658,
+				48.89357786
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/291",
+		"fields": 
+		{
+			"latitude": "49.11321366",
+			"wgs84": 
+			[
+				49.11321366,
+				2.28768472
+			],
+
+			"nom_de_la_gare": "Presles-Courcelles",
+			"longitude": "2.28768472"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.28768472,
+				49.11321366
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/296",
+		"fields": 
+		{
+			"latitude": "49.00965145",
+			"wgs84": 
+			[
+				49.00965145,
+				2.55979597
+			],
+
+			"nom_de_la_gare": "Roissy-A\u00e9roport-CDG 1-RER",
+			"longitude": "2.55979597"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.55979597,
+				49.00965145
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/304",
+		"fields": 
+		{
+			"latitude": "48.97023754",
+			"wgs84": 
+			[
+				48.97023754,
+				2.26398222
+			],
+
+			"nom_de_la_gare": "Sannois",
+			"longitude": "2.26398222"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26398222,
+				48.97023754
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/309",
+		"fields": 
+		{
+			"latitude": "48.67591696",
+			"wgs84": 
+			[
+				48.67591696,
+				2.35177605
+			],
+
+			"nom_de_la_gare": "Savigny-sur-Orge",
+			"longitude": "2.35177605"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.35177605,
+				48.67591696
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/311",
+		"fields": 
+		{
+			"latitude": "49.1191814",
+			"wgs84": 
+			[
+				49.1191814,
+				2.39904685
+			],
+
+			"nom_de_la_gare": "Seugy",
+			"longitude": "2.39904685"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.39904685,
+				49.1191814
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/316",
+		"fields": 
+		{
+			"latitude": "48.18189311",
+			"wgs84": 
+			[
+				48.18189311,
+				2.73467352
+			],
+
+			"nom_de_la_gare": "Souppes-Ch\u00e2teau-Landon",
+			"longitude": "2.73467352"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.73467352,
+				48.18189311
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/323",
+		"fields": 
+		{
+			"latitude": "48.65304261",
+			"wgs84": 
+			[
+				48.65304261,
+				2.31326362
+			],
+
+			"nom_de_la_gare": "Ste-Genevi\u00e8ve-des-Bois",
+			"longitude": "2.31326362"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31326362,
+				48.65304261
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/328",
+		"fields": 
+		{
+			"latitude": "49.01561858",
+			"wgs84": 
+			[
+				49.01561858,
+				2.24259523
+			],
+
+			"nom_de_la_gare": "St-Leu-la-For\u00eat",
+			"longitude": "2.24259523"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.24259523,
+				49.01561858
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/330",
+		"fields": 
+		{
+			"latitude": "48.42768242",
+			"wgs84": 
+			[
+				48.42768242,
+				2.145164
+			],
+
+			"nom_de_la_gare": "St-Martin-d'\u00c9tampes",
+			"longitude": "2.145164"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.145164,
+				48.42768242
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/335",
+		"fields": 
+		{
+			"latitude": "49.04538803",
+			"wgs84": 
+			[
+				49.04538803,
+				2.10767149
+			],
+
+			"nom_de_la_gare": "St-Ouen-l'Aum\u00f4ne",
+			"longitude": "2.10767149"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.10767149,
+				49.04538803
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/342",
+		"fields": 
+		{
+			"latitude": "48.82958063",
+			"wgs84": 
+			[
+				48.82958063,
+				1.66918219
+			],
+
+			"nom_de_la_gare": "Tacoigni\u00e8res-Richebourg",
+			"longitude": "1.66918219"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.66918219,
+				48.82958063
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/347",
+		"fields": 
+		{
+			"latitude": "48.7393088",
+			"wgs84": 
+			[
+				48.7393088,
+				2.75957134
+			],
+
+			"nom_de_la_gare": "Tournan",
+			"longitude": "2.75957134"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.75957134,
+				48.7393088
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/354",
+		"fields": 
+		{
+			"latitude": "49.09159081",
+			"wgs84": 
+			[
+				49.09159081,
+				2.20200063
+			],
+
+			"nom_de_la_gare": "Valmondois",
+			"longitude": "2.20200063"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.20200063,
+				49.09159081
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/359",
+		"fields": 
+		{
+			"latitude": "49.0074254",
+			"wgs84": 
+			[
+				49.0074254,
+				1.96284692
+			],
+
+			"nom_de_la_gare": "Vaux-sur-Seine",
+			"longitude": "1.96284692"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.96284692,
+				49.0074254
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/361",
+		"fields": 
+		{
+			"latitude": "48.98123376",
+			"wgs84": 
+			[
+				48.98123376,
+				1.98332318
+			],
+
+			"nom_de_la_gare": "Vernouillet-Verneuil",
+			"longitude": "1.98332318"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.98332318,
+				48.98123376
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/366",
+		"fields": 
+		{
+			"latitude": "48.9443606",
+			"wgs84": 
+			[
+				48.9443606,
+				2.56717584
+			],
+
+			"nom_de_la_gare": "Vert-Galant",
+			"longitude": "2.56717584"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.56717584,
+				48.9443606
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/373",
+		"fields": 
+		{
+			"latitude": "48.73008698",
+			"wgs84": 
+			[
+				48.73008698,
+				2.4462777
+			],
+
+			"nom_de_la_gare": "Villeneuve-St-Georges",
+			"longitude": "2.4462777"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.4462777,
+				48.73008698
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/378",
+		"fields": 
+		{
+			"latitude": "48.8238601",
+			"wgs84": 
+			[
+				48.8238601,
+				1.99306033
+			],
+
+			"nom_de_la_gare": "Villepreux-les-Clayes",
+			"longitude": "1.99306033"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.99306033,
+				48.8238601
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/380",
+		"fields": 
+		{
+			"latitude": "48.86415645",
+			"wgs84": 
+			[
+				48.86415645,
+				2.88165243
+			],
+
+			"nom_de_la_gare": "Villiers-Montbarbin",
+			"longitude": "2.88165243"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.88165243,
+				48.86415645
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/385",
+		"fields": 
+		{
+			"latitude": "48.67613012",
+			"wgs84": 
+			[
+				48.67613012,
+				2.38703591
+			],
+
+			"nom_de_la_gare": "Viry-Ch\u00e2tillon",
+			"longitude": "2.38703591"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.38703591,
+				48.67613012
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/4",
+		"fields": 
+		{
+			"latitude": "48.3114069",
+			"wgs84": 
+			[
+				48.3114069,
+				2.00373427
+			],
+
+			"nom_de_la_gare": "Angerville",
+			"longitude": "2.00373427"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.00373427,
+				48.3114069
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/9",
+		"fields": 
+		{
+			"latitude": "48.97187147",
+			"wgs84": 
+			[
+				48.97187147,
+				1.84767885
+			],
+
+			"nom_de_la_gare": "Aubergenville-\u00c9lisabethville",
+			"longitude": "1.84767885"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.84767885,
+				48.97187147
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/11",
+		"fields": 
+		{
+			"latitude": "48.93211863",
+			"wgs84": 
+			[
+				48.93211863,
+				2.49453652
+			],
+
+			"nom_de_la_gare": "Aulnay-sous-Bois",
+			"longitude": "2.49453652"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.49453652,
+				48.93211863
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/16",
+		"fields": 
+		{
+			"latitude": "48.23046701",
+			"wgs84": 
+			[
+				48.23046701,
+				2.70340173
+			],
+
+			"nom_de_la_gare": "Bagneaux-sur-Loing",
+			"longitude": "2.70340173"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.70340173,
+				48.23046701
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/23",
+		"fields": 
+		{
+			"latitude": "48.82873841",
+			"wgs84": 
+			[
+				48.82873841,
+				2.37793606
+			],
+
+			"nom_de_la_gare": "Biblioth\u00e8que-Fran\u00e7ois-Mitterrand",
+			"longitude": "2.37793606"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37793606,
+				48.82873841
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/28",
+		"fields": 
+		{
+			"latitude": "48.52941619",
+			"wgs84": 
+			[
+				48.52941619,
+				2.57305026
+			],
+
+			"nom_de_la_gare": "Boissise-le-Roi",
+			"longitude": "2.57305026"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.57305026,
+				48.52941619
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/30",
+		"fields": 
+		{
+			"latitude": "48.89385431",
+			"wgs84": 
+			[
+				48.89385431,
+				2.47875507
+			],
+
+			"nom_de_la_gare": "Bondy",
+			"longitude": "2.47875507"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.47875507,
+				48.89385431
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/35",
+		"fields": 
+		{
+			"latitude": "48.84105259",
+			"wgs84": 
+			[
+				48.84105259,
+				2.27185339
+			],
+
+			"nom_de_la_gare": "Boulevard-Victor",
+			"longitude": "2.27185339"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.27185339,
+				48.84105259
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/42",
+		"fields": 
+		{
+			"latitude": "48.56480883",
+			"wgs84": 
+			[
+				48.56480883,
+				2.17132053
+			],
+
+			"nom_de_la_gare": "Breuillet-Village",
+			"longitude": "2.17132053"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.17132053,
+				48.56480883
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/47",
+		"fields": 
+		{
+			"latitude": "49.04766222",
+			"wgs84": 
+			[
+				49.04766222,
+				2.01078143
+			],
+
+			"nom_de_la_gare": "Cergy-le-Haut",
+			"longitude": "2.01078143"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.01078143,
+				49.04766222
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/54",
+		"fields": 
+		{
+			"latitude": "48.54573855",
+			"wgs84": 
+			[
+				48.54573855,
+				3.28691515
+			],
+
+			"nom_de_la_gare": "Champbenoist-Poigny",
+			"longitude": "3.28691515"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.28691515,
+				48.54573855
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/59",
+		"fields": 
+		{
+			"latitude": "48.95929833",
+			"wgs84": 
+			[
+				48.95929833,
+				3.02632478
+			],
+
+			"nom_de_la_gare": "Changis-St-Jean",
+			"longitude": "3.02632478"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.02632478,
+				48.95929833
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/61",
+		"fields": 
+		{
+			"latitude": "49.0688074",
+			"wgs84": 
+			[
+				49.0688074,
+				2.1405569
+			],
+
+			"nom_de_la_gare": "Chaponval",
+			"longitude": "2.1405569"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.1405569,
+				49.0688074
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/66",
+		"fields": 
+		{
+			"latitude": "48.79983424",
+			"wgs84": 
+			[
+				48.79983424,
+				2.18317549
+			],
+
+			"nom_de_la_gare": "Chaville-V\u00e9lizy",
+			"longitude": "2.18317549"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.18317549,
+				48.79983424
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/73",
+		"fields": 
+		{
+			"latitude": "48.89771036",
+			"wgs84": 
+			[
+				48.89771036,
+				2.29726952
+			],
+
+			"nom_de_la_gare": "Clichy-Levallois",
+			"longitude": "2.29726952"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29726952,
+				48.89771036
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/78",
+		"fields": 
+		{
+			"latitude": "48.98831052",
+			"wgs84": 
+			[
+				48.98831052,
+				2.07467943
+			],
+
+			"nom_de_la_gare": "Conflans-Fin-d'Oise",
+			"longitude": "2.07467943"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07467943,
+				48.98831052
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/80",
+		"fields": 
+		{
+			"latitude": "48.61463843",
+			"wgs84": 
+			[
+				48.61463843,
+				2.4739854
+			],
+
+			"nom_de_la_gare": "Corbeil-Essonnes",
+			"longitude": "2.4739854"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.4739854,
+				48.61463843
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/85",
+		"fields": 
+		{
+			"latitude": "48.89785878",
+			"wgs84": 
+			[
+				48.89785878,
+				2.24777773
+			],
+
+			"nom_de_la_gare": "Courbevoie",
+			"longitude": "2.24777773"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.24777773,
+				48.89785878
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/92",
+		"fields": 
+		{
+			"latitude": "48.53555954",
+			"wgs84": 
+			[
+				48.53555954,
+				1.9969357
+			],
+
+			"nom_de_la_gare": "Dourdan-la-For\u00eat",
+			"longitude": "1.9969357"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.9969357,
+				48.53555954
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/97",
+		"fields": 
+		{
+			"latitude": "48.9735272",
+			"wgs84": 
+			[
+				48.9735272,
+				2.30613817
+			],
+
+			"nom_de_la_gare": "Enghien-les-Bains",
+			"longitude": "2.30613817"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.30613817,
+				48.9735272
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/103",
+		"fields": 
+		{
+			"latitude": "49.01825486",
+			"wgs84": 
+			[
+				49.01825486,
+				2.09096663
+			],
+
+			"nom_de_la_gare": "\u00c9ragny-Neuville",
+			"longitude": "2.09096663"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.09096663,
+				49.01825486
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/108",
+		"fields": 
+		{
+			"latitude": "48.43685641",
+			"wgs84": 
+			[
+				48.43685641,
+				2.15899848
+			],
+
+			"nom_de_la_gare": "\u00c9tampes",
+			"longitude": "2.15899848"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.15899848,
+				48.43685641
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/110",
+		"fields": 
+		{
+			"latitude": "48.63484196",
+			"wgs84": 
+			[
+				48.63484196,
+				2.45182418
+			],
+
+			"nom_de_la_gare": "\u00c9vry",
+			"longitude": "2.45182418"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.45182418,
+				48.63484196
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/115",
+		"fields": 
+		{
+			"latitude": "48.80709598",
+			"wgs84": 
+			[
+				48.80709598,
+				2.04125013
+			],
+
+			"nom_de_la_gare": "Fontenay-le-Fleury",
+			"longitude": "2.04125013"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.04125013,
+				48.80709598
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/122",
+		"fields": 
+		{
+			"latitude": "48.97684941",
+			"wgs84": 
+			[
+				48.97684941,
+				2.39083046
+			],
+
+			"nom_de_la_gare": "Garges",
+			"longitude": "2.39083046"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.39083046,
+				48.97684941
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/127",
+		"fields": 
+		{
+			"latitude": "48.6862306",
+			"wgs84": 
+			[
+				48.6862306,
+				2.31760265
+			],
+
+			"nom_de_la_gare": "Gravigny-Balizy",
+			"longitude": "2.31760265"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31760265,
+				48.6862306
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/134",
+		"fields": 
+		{
+			"latitude": "48.37526901",
+			"wgs84": 
+			[
+				48.37526901,
+				2.06076718
+			],
+
+			"nom_de_la_gare": "Guillerval",
+			"longitude": "2.06076718"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.06076718,
+				48.37526901
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/139",
+		"fields": 
+		{
+			"latitude": "48.92059102",
+			"wgs84": 
+			[
+				48.92059102,
+				2.18473835
+			],
+
+			"nom_de_la_gare": "Houilles-Carri\u00e8res-sur-Seine",
+			"longitude": "2.18473835"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.18473835,
+				48.92059102
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/141",
+		"fields": 
+		{
+			"latitude": "48.86296109",
+			"wgs84": 
+			[
+				48.86296109,
+				2.31155949
+			],
+
+			"nom_de_la_gare": "Invalides",
+			"longitude": "2.31155949"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.31155949,
+				48.86296109
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/146",
+		"fields": 
+		{
+			"latitude": "48.81419107",
+			"wgs84": 
+			[
+				48.81419107,
+				2.39167632
+			],
+
+			"nom_de_la_gare": "Ivry-sur-Seine",
+			"longitude": "2.39167632"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.39167632,
+				48.81419107
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/153",
+		"fields": 
+		{
+			"latitude": "48.84303258",
+			"wgs84": 
+			[
+				48.84303258,
+				2.13767284
+			],
+
+			"nom_de_la_gare": "La Celle-St-Cloud",
+			"longitude": "2.13767284"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.13767284,
+				48.84303258
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/158",
+		"fields": 
+		{
+			"latitude": "48.98005898",
+			"wgs84": 
+			[
+				48.98005898,
+				2.1801103
+			],
+
+			"nom_de_la_gare": "La Frette-Montigny",
+			"longitude": "2.1801103"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.1801103,
+				48.98005898
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/160",
+		"fields": 
+		{
+			"latitude": "48.37861152",
+			"wgs84": 
+			[
+				48.37861152,
+				2.89725267
+			],
+
+			"nom_de_la_gare": "La Grande-Paroisse",
+			"longitude": "2.89725267"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.89725267,
+				48.37861152
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/165",
+		"fields": 
+		{
+			"latitude": "48.93222688",
+			"wgs84": 
+			[
+				48.93222688,
+				2.47686887
+			],
+
+			"nom_de_la_gare": "Le Blanc-Mesnil",
+			"longitude": "2.47686887"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.47686887,
+				48.93222688
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/172",
+		"fields": 
+		{
+			"latitude": "48.93122813",
+			"wgs84": 
+			[
+				48.93122813,
+				2.26066323
+			],
+
+			"nom_de_la_gare": "Le Stade",
+			"longitude": "2.26066323"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.26066323,
+				48.93122813
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/177",
+		"fields": 
+		{
+			"latitude": "48.82492756",
+			"wgs84": 
+			[
+				48.82492756,
+				2.51124884
+			],
+
+			"nom_de_la_gare": "Les Boullereaux-Champigny",
+			"longitude": "2.51124884"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.51124884,
+				48.82492756
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/184",
+		"fields": 
+		{
+			"latitude": "48.74453069",
+			"wgs84": 
+			[
+				48.74453069,
+				2.41709384
+			],
+
+			"nom_de_la_gare": "Les Saules",
+			"longitude": "2.41709384"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.41709384,
+				48.74453069
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/189",
+		"fields": 
+		{
+			"latitude": "48.9844214",
+			"wgs84": 
+			[
+				48.9844214,
+				1.74697221
+			],
+
+			"nom_de_la_gare": "Limay",
+			"longitude": "1.74697221"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.74697221,
+				48.9844214
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/191",
+		"fields": 
+		{
+			"latitude": "48.51035132",
+			"wgs84": 
+			[
+				48.51035132,
+				2.6790629
+			],
+
+			"nom_de_la_gare": "Livry-sur-Seine",
+			"longitude": "2.6790629"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.6790629,
+				48.51035132
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/196",
+		"fields": 
+		{
+			"latitude": "49.04919908",
+			"wgs84": 
+			[
+				49.04919908,
+				2.5017585
+			],
+
+			"nom_de_la_gare": "Louvres",
+			"longitude": "2.5017585"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.5017585,
+				49.04919908
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/204",
+		"fields": 
+		{
+			"latitude": "48.88078179",
+			"wgs84": 
+			[
+				48.88078179,
+				2.07925714
+			],
+
+			"nom_de_la_gare": "Mareil-Marly",
+			"longitude": "2.07925714"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07925714,
+				48.88078179
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/209",
+		"fields": 
+		{
+			"latitude": "48.86995219",
+			"wgs84": 
+			[
+				48.86995219,
+				2.78268224
+			],
+
+			"nom_de_la_gare": "Marne-la-Vall\u00e9e-Chessy",
+			"longitude": "2.78268224"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.78268224,
+				48.86995219
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/211",
+		"fields": 
+		{
+			"latitude": "48.72412214",
+			"wgs84": 
+			[
+				48.72412214,
+				2.25593833
+			],
+
+			"nom_de_la_gare": "Massy-Palaiseau-Grande-Ceinture",
+			"longitude": "2.25593833"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.25593833,
+				48.72412214
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/216",
+		"fields": 
+		{
+			"latitude": "48.95685602",
+			"wgs84": 
+			[
+				48.95685602,
+				2.87315778
+			],
+
+			"nom_de_la_gare": "Meaux",
+			"longitude": "2.87315778"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.87315778,
+				48.95685602
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/223",
+		"fields": 
+		{
+			"latitude": "48.80844749",
+			"wgs84": 
+			[
+				48.80844749,
+				2.2417248
+			],
+
+			"nom_de_la_gare": "Meudon-Val-Fleury",
+			"longitude": "2.2417248"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.2417248,
+				48.80844749
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/228",
+		"fields": 
+		{
+			"latitude": "48.80277889",
+			"wgs84": 
+			[
+				48.80277889,
+				1.81590828
+			],
+
+			"nom_de_la_gare": "Montfort-l'Amaury-M\u00e8re",
+			"longitude": "1.81590828"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.81590828,
+				48.80277889
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/230",
+		"fields": 
+		{
+			"latitude": "49.0799",
+			"wgs84": 
+			[
+				49.0799,
+				2.00597
+			],
+
+			"nom_de_la_gare": "Montgeroult-Courcelles",
+			"longitude": "2.00597"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.00597,
+				49.0799
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/235",
+		"fields": 
+		{
+			"latitude": "49.06626362",
+			"wgs84": 
+			[
+				49.06626362,
+				2.32274844
+			],
+
+			"nom_de_la_gare": "Montsoult-Maffliers",
+			"longitude": "2.32274844"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.32274844,
+				49.06626362
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/242",
+		"fields": 
+		{
+			"latitude": "48.56127499",
+			"wgs84": 
+			[
+				48.56127499,
+				3.01289589
+			],
+
+			"nom_de_la_gare": "Nangis",
+			"longitude": "3.01289589"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.01289589,
+				48.56127499
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/247",
+		"fields": 
+		{
+			"latitude": "49.01343881",
+			"wgs84": 
+			[
+				49.01343881,
+				2.07847129
+			],
+
+			"nom_de_la_gare": "Neuville-Universit\u00e9",
+			"longitude": "2.07847129"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.07847129,
+				49.01343881
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/254",
+		"fields": 
+		{
+			"latitude": "48.63621701",
+			"wgs84": 
+			[
+				48.63621701,
+				2.40997809
+			],
+
+			"nom_de_la_gare": "Orangis-Bois-de-l'\u00c9pine",
+			"longitude": "2.40997809"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.40997809,
+				48.63621701
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/259",
+		"fields": 
+		{
+			"latitude": "48.89806913",
+			"wgs84": 
+			[
+				48.89806913,
+				2.40027817
+			],
+
+			"nom_de_la_gare": "Pantin",
+			"longitude": "2.40027817"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.40027817,
+				48.89806913
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/261",
+		"fields": 
+		{
+			"latitude": "48.84049256",
+			"wgs84": 
+			[
+				48.84049256,
+				2.36701897
+			],
+
+			"nom_de_la_gare": "Paris-Austerlitz",
+			"longitude": "2.36701897"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36701897,
+				48.84049256
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/266",
+		"fields": 
+		{
+			"latitude": "48.84414217",
+			"wgs84": 
+			[
+				48.84414217,
+				2.37399799
+			],
+
+			"nom_de_la_gare": "Paris-Gare-de-Lyon (Banlieue)",
+			"longitude": "2.37399799"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.37399799,
+				48.84414217
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/273",
+		"fields": 
+		{
+			"latitude": "48.88517732",
+			"wgs84": 
+			[
+				48.88517732,
+				2.29805769
+			],
+
+			"nom_de_la_gare": "P\u00e9reire-Levallois",
+			"longitude": "2.29805769"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29805769,
+				48.88517732
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/278",
+		"fields": 
+		{
+			"latitude": "49.01927945",
+			"wgs84": 
+			[
+				49.01927945,
+				2.15402875
+			],
+
+			"nom_de_la_gare": "Pierrelaye",
+			"longitude": "2.15402875"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.15402875,
+				49.01927945
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/280",
+		"fields": 
+		{
+			"latitude": "48.83100388",
+			"wgs84": 
+			[
+				48.83100388,
+				1.96254347
+			],
+
+			"nom_de_la_gare": "Plaisir-les Clayes",
+			"longitude": "1.96254347"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.96254347,
+				48.83100388
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/285",
+		"fields": 
+		{
+			"latitude": "48.53512495",
+			"wgs84": 
+			[
+				48.53512495,
+				2.54446952
+			],
+
+			"nom_de_la_gare": "Ponthierry-Pringy",
+			"longitude": "2.54446952"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.54446952,
+				48.53512495
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/292",
+		"fields": 
+		{
+			"latitude": "48.55580994",
+			"wgs84": 
+			[
+				48.55580994,
+				3.30333193
+			],
+
+			"nom_de_la_gare": "Provins",
+			"longitude": "3.30333193"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				3.30333193,
+				48.55580994
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/297",
+		"fields": 
+		{
+			"latitude": "49.00568873",
+			"wgs84": 
+			[
+				49.00568873,
+				2.5706303
+			],
+
+			"nom_de_la_gare": "Roissy-A\u00e9roport-CDG 2-TGV",
+			"longitude": "2.5706303"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.5706303,
+				49.00568873
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/300",
+		"fields": 
+		{
+			"latitude": "48.88246151",
+			"wgs84": 
+			[
+				48.88246151,
+				2.48107876
+			],
+
+			"nom_de_la_gare": "Rosny-Bois-Perrier",
+			"longitude": "2.48107876"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.48107876,
+				48.88246151
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/305",
+		"fields": 
+		{
+			"latitude": "49.12425769",
+			"wgs84": 
+			[
+				49.12425769,
+				1.948942
+			],
+
+			"nom_de_la_gare": "Santeuil-Le Perchay",
+			"longitude": "1.948942"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.948942,
+				49.12425769
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/312",
+		"fields": 
+		{
+			"latitude": "48.94593895",
+			"wgs84": 
+			[
+				48.94593895,
+				2.52479781
+			],
+
+			"nom_de_la_gare": "Sevran-Beaudottes",
+			"longitude": "2.52479781"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.52479781,
+				48.94593895
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/317",
+		"fields": 
+		{
+			"latitude": "48.91825803",
+			"wgs84": 
+			[
+				48.91825803,
+				2.34991342
+			],
+
+			"nom_de_la_gare": "Stade-de-France-St-Denis",
+			"longitude": "2.34991342"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.34991342,
+				48.91825803
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/324",
+		"fields": 
+		{
+			"latitude": "48.5642895",
+			"wgs84": 
+			[
+				48.5642895,
+				2.54246627
+			],
+
+			"nom_de_la_gare": "St-Fargeau",
+			"longitude": "2.54246627"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.54246627,
+				48.5642895
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/329",
+		"fields": 
+		{
+			"latitude": "48.38208981",
+			"wgs84": 
+			[
+				48.38208981,
+				2.81583373
+			],
+
+			"nom_de_la_gare": "St-Mamm\u00e8s",
+			"longitude": "2.81583373"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.81583373,
+				48.38208981
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/331",
+		"fields": 
+		{
+			"latitude": "48.85311659",
+			"wgs84": 
+			[
+				48.85311659,
+				2.34708292
+			],
+
+			"nom_de_la_gare": "St-Michel-Notre-Dame",
+			"longitude": "2.34708292"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.34708292,
+				48.85311659
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/336",
+		"fields": 
+		{
+			"latitude": "49.03969143",
+			"wgs84": 
+			[
+				49.03969143,
+				2.10372844
+			],
+
+			"nom_de_la_gare": "St-Ouen-l'Aum\u00f4ne-\u00c9glise",
+			"longitude": "2.10372844"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.10372844,
+				49.03969143
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/343",
+		"fields": 
+		{
+			"latitude": "49.02513576",
+			"wgs84": 
+			[
+				49.02513576,
+				2.22220397
+			],
+
+			"nom_de_la_gare": "Taverny",
+			"longitude": "2.22220397"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.22220397,
+				49.02513576
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/348",
+		"fields": 
+		{
+			"latitude": "48.77476019",
+			"wgs84": 
+			[
+				48.77476019,
+				2.00657768
+			],
+
+			"nom_de_la_gare": "Trappes-Voyageurs",
+			"longitude": "2.00657768"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.00657768,
+				48.77476019
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/350",
+		"fields": 
+		{
+			"latitude": "48.96013551",
+			"wgs84": 
+			[
+				48.96013551,
+				2.94953688
+			],
+
+			"nom_de_la_gare": "Trilport",
+			"longitude": "2.94953688"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.94953688,
+				48.96013551
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/355",
+		"fields": 
+		{
+			"latitude": "48.81801764",
+			"wgs84": 
+			[
+				48.81801764,
+				2.29143558
+			],
+
+			"nom_de_la_gare": "Vanves-Malakoff",
+			"longitude": "2.29143558"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.29143558,
+				48.81801764
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/362",
+		"fields": 
+		{
+			"latitude": "48.38646593",
+			"wgs84": 
+			[
+				48.38646593,
+				2.8429784
+			],
+
+			"nom_de_la_gare": "Vernou-sur-Seine",
+			"longitude": "2.8429784"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.8429784,
+				48.38646593
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/367",
+		"fields": 
+		{
+			"latitude": "49.11703966",
+			"wgs84": 
+			[
+				49.11703966,
+				2.36896551
+			],
+
+			"nom_de_la_gare": "Viarmes",
+			"longitude": "2.36896551"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.36896551,
+				49.11703966
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/374",
+		"fields": 
+		{
+			"latitude": "48.74460648",
+			"wgs84": 
+			[
+				48.74460648,
+				2.4387575
+			],
+
+			"nom_de_la_gare": "Villeneuve-St-Georges-Triage",
+			"longitude": "2.4387575"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.4387575,
+				48.74460648
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/379",
+		"fields": 
+		{
+			"latitude": "48.99377219",
+			"wgs84": 
+			[
+				48.99377219,
+				2.4163196
+			],
+
+			"nom_de_la_gare": "Villiers-le-Bel-Gonesse",
+			"longitude": "2.4163196"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.4163196,
+				48.99377219
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/381",
+		"fields": 
+		{
+			"latitude": "48.8155581",
+			"wgs84": 
+			[
+				48.8155581,
+				1.87768383
+			],
+
+			"nom_de_la_gare": "Villiers-Neauphle-Pontchartrain",
+			"longitude": "1.87768383"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				1.87768383,
+				48.8155581
+			]
+		}
+	},
+
+	{
+		"datasetid": "liste_des_gares_de_voyageurs",
+		"recordid": "garesvoyageursrfn_csv/386",
+		"fields": 
+		{
+			"latitude": "48.80084675",
+			"wgs84": 
+			[
+				48.80084675,
+				2.40234938
+			],
+
+			"nom_de_la_gare": "Vitry-sur-Seine",
+			"longitude": "2.40234938"
+		},
+
+		"geometry": 
+		{
+			"type": "Point",
+			"coordinates": 
+			[
+				2.40234938,
+				48.80084675
+			]
+		}
+	}
+ ]
+}

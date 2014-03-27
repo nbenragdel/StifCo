@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="@string/proposer"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvLaDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvDate"
+        android:layout_alignBottom="@+id/tvDate"
+        android:layout_marginLeft="18dp"
+        android:layout_toRightOf="@+id/tvDate"
+        android:text="@string/ladate"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btChangeDate"
+        style="@style/btn_proposer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvDate"
+        android:layout_below="@+id/tvDate"
+        android:layout_marginTop="16dp"
+        android:text="@string/changerdate" />
+
+    <EditText
+        android:id="@+id/etVille"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvVille"
+        android:layout_alignBottom="@+id/tvVille"
+        android:layout_alignLeft="@+id/tvLaDate"
+        android:ems="10"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/tvLieu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvVille"
+        android:layout_below="@+id/etVille"
+        android:layout_marginTop="26dp"
+        android:text="@string/lieu"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <RadioGroup
+        android:id="@+id/rgLieu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/etVille"
+        android:layout_alignTop="@+id/tvLieu"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rbPoste"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/poste" />
+
+        <RadioButton
+            android:id="@+id/rbMairie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mairie" />
+
+        <RadioButton
+            android:id="@+id/rbEglise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/eglise" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tvPlaces"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvLieu"
+        android:layout_alignRight="@+id/tvLaDate"
+        android:layout_centerVertical="true"
+        android:text="@string/places"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btChangeHeure"
+        style="@style/btn_proposer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tvVille"
+        android:layout_alignRight="@+id/rgLieu"
+        android:text="@string/changerheure" />
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/ladate"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tvVille"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btChangeDate"
+        android:layout_below="@+id/btChangeDate"
+        android:layout_marginTop="14dp"
+        android:text="@string/ville"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextSwitcher
+        android:id="@+id/tsPlaces"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/btChangeDate"
+        android:layout_centerVertical="true" >
+    </TextSwitcher>
+
+    <TextView
+        android:id="@+id/tvGares"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvPlaces"
+        android:layout_below="@+id/btMoins"
+        android:layout_marginTop="14dp"
+        android:text="@string/gare"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btOffre"
+        style="@style/btn_soumettre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/btMoins"
+        android:layout_marginBottom="18dp"
+        android:text="@string/offre" />
+
+    <Button
+        android:id="@+id/btPlus"
+        style="@style/btn_proposer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btChangeHeure"
+        android:layout_alignTop="@+id/tvPlaces"
+        android:text="@string/plus" />
+
+    <Button
+        android:id="@+id/btMoins"
+        style="@style/btn_proposer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btPlus"
+        android:layout_alignBottom="@+id/btPlus"
+        android:layout_toRightOf="@+id/btPlus"
+        android:text="@string/moins" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvGares"
+        android:layout_marginTop="14dp"
+        android:orientation="horizontal" >
+
+        <AutoCompleteTextView
+            android:id="@+id/actvGare"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <requestFocus />
+        </AutoCompleteTextView>
+    </LinearLayout>
+
+</RelativeLayout>
