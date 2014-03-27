@@ -48,7 +48,7 @@ public class Recherche extends Activity implements ViewSwitcher.ViewFactory,View
 	 Intent resultat;
 
 
-	// Varaibles pour la lecture du flux Json
+	// Varaibles pour la lecture du flux JSON
 	private String jsonString;
 
 
