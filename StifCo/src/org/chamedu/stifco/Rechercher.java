@@ -38,7 +38,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ViewSwitcher;
 
-public class Recherche extends Activity implements ViewSwitcher.ViewFactory,View.OnClickListener {
+public class Rechercher extends Activity implements ViewSwitcher.ViewFactory,View.OnClickListener {
 
 	private Button recherche;
  
@@ -172,12 +172,12 @@ public class Recherche extends Activity implements ViewSwitcher.ViewFactory,View
 				items1 = new ArrayList<String>();
 				if ( json.equals("recherche_vide")) {
 				    
-					 resultat = new Intent(Recherche.this,Resultat.class);
+					 resultat = new Intent(Rechercher.this,Resultat.class);
 					 resultat.putExtra("json", json);
 					 startActivity(new Intent(resultat));
 				} else {
 					 
-					 resultat = new Intent(Recherche.this,Resultat.class);
+					 resultat = new Intent(Rechercher.this,Resultat.class);
 					 resultat.putExtra("json", json);
 					 startActivity(new Intent(resultat));
 					

@@ -153,7 +153,7 @@ public class MainActivity extends Activity implements OnClickListener {
 		}
 
 		if ( v == rechercher ) { 
-			Intent iRecherche = new Intent(this,Recherche.class); 
+			Intent iRecherche = new Intent(this,Rechercher.class); 
 			this.startActivityForResult(iRecherche,10 ); 
 		}	
 	}

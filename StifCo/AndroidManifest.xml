@@ -31,7 +31,7 @@
             android:label="@string/proposer" >
         </activity>
          <activity
-            android:name="org.chamedu.stifco.Recherche"
+            android:name="org.chamedu.stifco.Rechercher"
             android:screenOrientation="portrait"
             android:label="@string/recherche" >
         </activity>
